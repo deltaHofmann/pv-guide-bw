@@ -1,0 +1,53 @@
+# Hilfen zur Photovoltaikpflicht
+
+**Quelle:** Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg  
+**URL:** https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/hilfen-zur-photovoltaikpflicht  
+**Stand der Seite:** 23.04.2026  
+**Angegebene Lesezeit:** 2 Minuten
+
+## Überblick
+
+Bei der praktischen Umsetzung der Photovoltaikpflicht möchte das Ministerium bestmöglich begleiten. Es stellt umfangreiches Informationsmaterial und Muster-Anträge zur Verfügung, damit die gesetzlichen Vorgaben umgesetzt werden können.
+
+Wer in Baden-Württemberg ein Gebäude oder einen Parkplatz mit mehr als 35 Stellplätzen plant und baut, oder wer eine grundlegende Dachsanierung vornimmt, ist dazu verpflichtet, eine Photovoltaikanlage oder entsprechende Ersatzmaßnahmen zu realisieren.
+
+## Praxisleitfaden und Flyer zur Photovoltaikpflicht
+
+Mit dem Praxisleitfaden zur Photovoltaikpflicht werden Bauherrinnen und Bauherren bei der praktischen Umsetzung der Photovoltaikpflicht begleitet. Im Leitfaden werden die Vorschriften umfassend erläutert und es wird erklärt, wie die Anforderungen eingehalten werden können.
+
+- **Publikation:** Praxisleitfaden zur Photovoltaikpflicht  
+  https://um.baden-wuerttemberg.de/de/presse-service/publikation/did/praxisleitfaden-zur-photovoltaikpflicht
+
+Einen schnellen Überblick bietet ein Flyer, der die wichtigsten Voraussetzungen der Photovoltaikpflicht kurz zusammenfasst.
+
+- **Publikation:** Photovoltaikpflicht  
+  https://um.baden-wuerttemberg.de/de/presse-service/publikation/did/photovoltaikpflicht
+
+## Muster für einen Befreiungsantrag
+
+Auf Antrag kann eine Bauherrin oder ein Bauherr von der Photovoltaikpflicht ganz oder teilweise befreit werden, wenn diese nur mit unverhältnismäßig hohem wirtschaftlichen Aufwand erfüllbar wäre. Entsprechende Muster für einen Befreiungsantrag stehen zum Herunterladen zur Verfügung.
+
+- **Befreiungsantrag: Photovoltaikpflicht beim Neubau eines Wohn- oder Nichtwohngebäudes (PDF, 2023)**  
+  https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-WG-und-NWG-barrierefrei.pdf
+- **Befreiungsantrag: Photovoltaikpflicht beim Neubau eines offenen Parkplatzes (PDF, 2023)**  
+  https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-Parkplatz-barrierefrei.pdf
+- **Befreiungsantrag: Photovoltaikpflicht bei einer grundlegenden Dachsanierung (PDF, 2023)**  
+  https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Dachsanierungen-BARF-barrierefrei.pdf
+
+### Hinweis zur Berechnung des Mehraufwands im Formular
+
+In der aktuellen Version des Formulars für den Befreiungsantrag bei einer grundlegenden Dachsanierung ist die automatische Berechnung des Mehraufwands unter Punkt 5.1 derzeit fehlerhaft. Den korrekten Wert erhält man, indem Zeile 1 durch Zeile 2 dividiert wird.
+
+Die 70-Prozent-Grenze bezieht sich auf die übrigen Kosten der betreffenden Photovoltaikanlage (Paragraf 7 Absatz 3 PVPf-VO):  
+https://www.landesrecht-bw.de/bsbw/document/jlr-PVInstPfVBWV2P7
+
+## Weitere Informationen und Beratung
+
+Für weitere Informationen und Beratung können Sie sich an folgende Stellen wenden:
+
+- **Regionale Energieagenturen**  
+  https://www.kea-bw.de/kommunaler-klimaschutz/regionale-energieagenturen
+- **Photovoltaik-Netzwerk Baden-Württemberg**  
+  https://www.photovoltaik-bw.de/pv-netzwerke/
+- **Zukunft Altbau**  
+  https://www.zukunftaltbau.de/

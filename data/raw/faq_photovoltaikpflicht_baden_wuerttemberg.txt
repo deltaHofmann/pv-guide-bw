@@ -1,0 +1,229 @@
+# Fragen und Antworten zur Photovoltaikpflicht in Baden-Württemberg
+
+**Herausgeber:** Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg  
+**Quelle:** [Fragen und Antworten zur Photovoltaikpflicht](https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/faq-photovoltaikpflicht)  
+**Stand der Seite:** 17.04.2026  
+**Angegebene Lesezeit:** 30 Minuten
+
+Rund 88 Prozent des Potenzials der Dächer Baden-Württembergs sind bisher noch ungenutzt. Die Photovoltaikpflicht soll zusätzlichen Flächenverbrauch vermeiden und dafür sorgen, dass elektrische Energie dort erzeugt wird, wo sie gebraucht wird. Um den Ausbau von Dachflächen-Photovoltaik weiter voranzutreiben, wurde im [Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg](https://um.baden-wuerttemberg.de/de/klima-energie/klimaschutz/klimagesetz-baden-wuerttemberg) eine Pflicht zur Installation von Photovoltaikanlagen beim Neubau von Wohn- und Nichtwohngebäuden und größeren, offenen Parkplätzen aufgenommen. Seit dem 1. Januar 2023 gilt die Pflicht auch für Bestandsgebäude (Wohn- und Nichtwohngebäude), sobald Dächer grundlegend saniert werden.
+
+Im Zusammenhang mit der Photovoltaikpflicht gibt es häufig Fragen. Die Antworten der Landesregierung sind nach Themen geordnet.
+
+## 1. Wann wird die Photovoltaikpflicht angewendet?
+
+### Wann greift die Photovoltaikpflicht?
+
+Die Photovoltaikpflicht gilt für Bauherrinnen und Bauherren beim Neubau eines Wohn- oder Nichtwohngebäudes und bei der grundlegenden Dachsanierung eines Bestandsgebäudes. Außerdem greift sie beim Neubau eines offenen Parkplatzes mit mehr als 35 Stellplätzen.
+
+Der maßgebliche Zeitpunkt ist bei allen Neubauvorhaben das Eingangsdatum des Bauantrags oder der vollständigen Bauvorlagen im Kenntnisgabeverfahren. Bei Dachsanierungen zählt das Datum des Baubeginns:
+
+- Neubau Parkplatz: 1. Januar 2022
+- Neubau Nichtwohngebäude: 1. Januar 2022
+- Neubau Wohngebäude: 1. Mai 2022
+- Grundlegende Dachsanierung: 1. Januar 2023
+
+Grundsätzliche Voraussetzung für die Photovoltaikpflicht ist, dass das jeweilige Bauvorhaben über eine Dach- oder Stellplatzfläche verfügt, die zur Solarnutzung geeignet ist.
+
+Die Pflicht gilt auch bei einem Ausbau oder Anbau an ein bestehendes Gebäude oder an einen bestehenden Parkplatz. Voraussetzung ist ebenfalls, dass durch den Anbau eine neue, zur Solarnutzung geeignete Dach- oder Stellplatzfläche entsteht. Bestehende Dach- oder Stellplatzflächen zählen dabei nicht mit.
+
+Als grundlegende Dachsanierung gelten Baumaßnahmen, bei denen die Abdichtung oder die Eindeckung eines Daches vollständig erneuert wird. Dies gilt auch bei einer Wiederverwendung von Baustoffen. Eine Erneuerung der darunterliegenden Lattungen oder Schalungen wird nicht vorausgesetzt. Ausgenommen sind Baumaßnahmen, die ausschließlich zur Behebung kurzfristig eingetretener Schäden vorgenommen werden, zum Beispiel Sturmschäden.
+
+### Wer wird verpflichtet?
+
+Die Verpflichtung betrifft Bauherrinnen und Bauherren. Sie müssen beim Neubau eine Photovoltaikanlage installieren, wenn dabei eine für die Solarnutzung geeignete Dachfläche entsteht. Sie können zugleich Eigentümerin oder Eigentümer des Gebäudes oder Grundstücks sein, müssen es aber nicht.
+
+### Wann gilt die Photovoltaikpflicht bei einer grundlegenden Dachsanierung?
+
+Die Photovoltaikpflicht gilt bei grundlegenden Dachsanierungen, wenn mit den Bauarbeiten ab dem 1. Januar 2023 begonnen wird. Als Baubeginn gilt die tatsächliche Aufnahme von Bauarbeiten am Dach selbst, also Baumaßnahmen, die eine Erneuerung der Abdichtung oder der Eindeckung eines Daches beinhalten.
+
+Davon abzugrenzen sind vorbereitende Arbeiten wie Planungsleistungen, die Einrichtung der Baustelle, das Aufstellen eines Gerüsts oder vertragliche Vereinbarungen wie die Zahlung eines Abschlags. In solchen Fällen kann grundsätzlich nicht von einem Beginn der Bauarbeiten ausgegangen werden.
+
+### Sind ehrenamtlich tätige Vereine von der Pflicht ausgenommen?
+
+Nein. Für ehrenamtlich tätige Vereine gibt es keine gesonderten Ausnahmeregeln.
+
+### Welche Folgen haben ältere Bebauungspläne, die eine Photovoltaiknutzung grundsätzlich ausschließen?
+
+Bei der Photovoltaikpflicht nach dem [Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg](https://um.baden-wuerttemberg.de/de/klima-energie/klimaschutz/klimagesetz-baden-wuerttemberg) handelt es sich um eine ordnungsrechtliche Pflicht, die sich allein an Bauherrinnen und Bauherren richtet. Kommunen werden zwar als Bauherrinnen, nicht jedoch in ihrer Funktion als Trägerinnen der Bauleitplanung erfasst. Festsetzungen in bestehenden Bebauungsplänen werden durch die Photovoltaikpflicht daher nicht berührt.
+
+Wird eine Photovoltaiknutzung bauleitplanerisch pauschal ausgeschlossen, entfällt damit auch die Photovoltaikpflicht im Sinne von § 23 Absatz 1 Satz 2 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true).
+
+### Sind kleinere Gebäude von der PV-Pflicht ausgenommen?
+
+Kleinere Gebäude mit einer Nutzfläche von weniger als 50 Quadratmetern gelten als ungeeignet für eine Solarnutzung und sind daher von der Photovoltaikpflicht ausgenommen. Die jeweilige Nutzfläche eines Gebäudes ergibt sich in diesem Zusammenhang aus der Netto-Grundfläche nach DIN 277.
+
+## 2. Wie wird die Photovoltaikpflicht angewendet?
+
+### Wann ist eine Fläche zur Solarnutzung geeignet?
+
+#### Voraussetzungen für Dachflächen
+
+Die Mindestvoraussetzungen einer Dachfläche, die zur Solarnutzung geeignet ist, sind in § 4 Absatz 1 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) definiert:
+
+- Ein Dach muss über eine zusammenhängende Mindestfläche von 20 Quadratmetern verfügen, die durch die sie umschließenden Dachkanten abgrenzbar ist. Handelt es sich um ein Flachdach, darf die Fläche eine maximale Neigung von 20 Grad aufweisen; darüber hinaus muss sie keine Anforderungen erfüllen.
+- Handelt es sich um ein Steildach, darf dieses bei einer Neigung von 20 bis maximal 60 Grad nur nach Westen, Osten und allen dazwischenliegenden Himmelsrichtungen nach Süden ausgerichtet sein.
+
+Ein nach Norden ausgerichtetes Steildach fällt somit nicht unter die Photovoltaikpflicht. Sollen auf einer zur Solarnutzung geeigneten Fläche anderweitige „notwendige Nutzungen“ wie eine Dachterrasse untergebracht werden, muss gewährleistet sein, dass die verbleibende Fläche hinreichend eben und hinreichend von der Sonne beschienen ist. Letzteres kann bei einer jährlichen Sonneneinstrahlung von mindestens 75 Prozent angenommen werden.
+
+#### Voraussetzungen für Stellplatzflächen
+
+Die Mindestvoraussetzungen für eine zur Solarnutzung geeignete Stellplatzfläche sind in § 5 Absatz 1 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) definiert:
+
+- Es müssen mindestens vier Stellplätze unmittelbar nebeneinander angeordnet sein.
+- Die Stellplätze sind ausschließlich für Personenkraftwagen vorgesehen.
+- Die Parkplatzfläche weist eine maximale Neigung von 10 Grad auf.
+
+Anders als bei Gebäuden spielt die jährliche solare Sonneneinstrahlung hierbei keine Rolle, da beim Neubau von offenen Parkplätzen ausreichend Gestaltungsspielraum besteht, Verschattungen zu vermeiden, zum Beispiel durch entsprechende Baumbepflanzung.
+
+#### Ausnahmen wegen fehlender Eignung
+
+In § 4 Absatz 4 und § 5 Absatz 2 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) sind Fälle aufgeführt, in denen Gebäude beziehungsweise Dach- oder Stellplatzflächen nicht für eine Solarnutzung geeignet sind. Liegt einer dieser Fälle vor, entfällt die Photovoltaikpflicht, ohne dass ein Antrag auf Befreiung gestellt werden muss.
+
+Dazu gehören:
+
+- Gebäude mit einer Nutzfläche von weniger als 50 Quadratmetern
+- Gebäude mit Dachflächen, die im Rahmen der notwendigen Nutzung temporär entfernt oder bewegt werden müssen
+- Gebäude oder Parkplatzflächen, auf denen eine Solarnutzung unter Berücksichtigung der typischen Nutzung und gegebenenfalls unvermeidbarer externer Einflüsse, zum Beispiel Schneelast, eine Gefahr für Personen oder Sachen darstellt
+- Bauvorhaben ohne Anschluss an ein Elektrizitätsversorgungsnetz, wenn der Netzanschluss nach § 17 Absatz 2 Satz 1 des [Energiewirtschaftsgesetzes](https://www.gesetze-im-internet.de/enwg_2005/__17.html) verweigert wird
+
+### Müssen Dächer in eine bestimmte Himmelsrichtung ausgerichtet werden?
+
+Nein. Das [Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg](https://um.baden-wuerttemberg.de/de/klima-energie/klimaschutz/klimagesetz-baden-wuerttemberg) gibt nicht vor, wie Dächer gebaut werden sollen. Stattdessen müssen die Behörden prüfen, ob durch ein Bauvorhaben in der geplanten Ausführung eine zur Solarnutzung geeignete Dachfläche entsteht. Ist dies nicht der Fall, besteht keine Photovoltaikpflicht.
+
+### Wie groß muss die Photovoltaikanlage sein?
+
+Um die Photovoltaikpflicht zu erfüllen, muss die installierte Photovoltaikanlage eine bestimmte Mindestmodulfläche in Quadratmetern aufweisen. Diese wird anhand der Dachfläche bemessen, die zur Solarnutzung geeignet ist. Im Regelfall reicht es nach § 6 Absatz 1 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true), wenn die Photovoltaikanlage eine Modulfläche im Umfang von mindestens 60 Prozent der Dachfläche aufweist.
+
+Wird die ursprüngliche Eignungsfläche eines Daches durch anderweitige „notwendige Nutzungen“ wie Dachterrassen verkleinert, müssen vergleichsweise etwas mehr Photovoltaikmodule installiert werden: mindestens 75 Prozent der verbleibenden Eignungsfläche.
+
+Fällt die Photovoltaikpflicht mit einer öffentlich-rechtlichen Pflicht zur Dachbegrünung zusammen, reduziert sich der oben beschriebene Umfang der Mindestnutzung um 50 Prozent. Entscheidet sich eine Bauherrin oder ein Bauherr freiwillig für eine Dachbegrünung, greift diese Regelung nicht.
+
+Beim Neubau eines Wohngebäudes oder bei einer grundlegenden Dachsanierung besteht außerdem die Möglichkeit, den Umfang der Mindestnutzung statt als Mindestmodulfläche in Quadratmetern anhand der installierten Leistung einer Anlage zu berechnen. Dabei gilt die Photovoltaikpflicht als erfüllt, wenn die Photovoltaikanlage eine installierte Mindestleistung von 0,06 Kilowatt Peak je Quadratmeter der überbauten Grundstücksfläche aufweist.
+
+Die überbaute Grundstücksfläche umfasst die Fläche, mit der ein Gebäude über seine Außenwand den Erdboden berührt, sowie darüber hinausragende Dachüberstände. Entscheidet sich eine Bauherrin oder ein Bauherr, die Photovoltaikpflicht ersatzweise durch die Installation einer solarthermischen Anlage zu erfüllen, entspricht 1 Kilowatt Peak installierter Photovoltaik-Leistung umgerechnet 5,5 Quadratmetern Kollektorfläche. Diese alternativen Berechnungsmaßstäbe sollen insbesondere privaten Bauherrinnen und Bauherren die Umsetzung der Photovoltaikpflicht erleichtern.
+
+Beim Neubau von Parkplätzen reicht es aus, wenn die über der geeigneten Stellplatzfläche installierten Module einen Mindestumfang von 60 Prozent der Eignungsfläche aufweisen. Oberhalb von Fahrgassen müssen keine Module angebracht werden.
+
+Die mindestens zu installierende Modulfläche ist nach oben gedeckelt. So soll gewährleistet werden, dass nach dem Erneuerbare-Energien-Gesetz bestehende Förderansprüche späterer Anlagenbetreiberinnen und Anlagenbetreiber nicht von einem Zuschlag der Bundesnetzagentur abhängen. Für Solaranlagen auf Gebäudedächern, die nach dem 1. Mai 2025 in Betrieb genommen werden, liegt diese Grenze bei einer installierten Leistung von 750 Kilowatt Peak. Für den Zeitraum davor liegt sie bei 1.000 Kilowatt Peak.
+
+Zur Beschaffenheit, Ausrichtung und Platzierung der Photovoltaikmodule machen das Gesetz und die Verordnung zur Photovoltaikpflicht keine Vorgaben. Bauherrinnen und Bauherren können frei wählen, welchen Teil einer zur Solarnutzung geeigneten Dach- oder Stellplatzfläche sie nutzen oder welche Art von PV-Modulen sie einsetzen, zum Beispiel auch vertikale PV-Module. Eine flexible Erfüllung der Photovoltaikpflicht ist damit gegeben. Auch die Kombination der Photovoltaikanlage mit anderen Nutzungen, etwa Mobilfunksendeanlagen, ist möglich. Bauherrinnen und Bauherren können freiwillig mehr Photovoltaikmodule installieren, als zur Pflichterfüllung erforderlich sind.
+
+### Müssen Bauherrinnen und Bauherren die Photovoltaikanlage selbst betreiben?
+
+Nein. Die Photovoltaikanlage kann auch von einem Dritten betrieben werden. Bauherrinnen und Bauherren können ein fertig errichtetes Gebäude oder einen fertig errichteten Parkplatz einschließlich der darauf installierten Photovoltaikanlage verkaufen, eine zur Solarnutzung geeignete Dachfläche an einen Dritten verpachten, zum Beispiel an Stadtwerke, oder ein sogenanntes Contracting-Modell wählen.
+
+### Wie wird die Erfüllung der Photovoltaikpflicht nachgewiesen?
+
+Im Regelfall reicht es als Nachweis aus, der zuständigen Behörde spätestens zwölf Monate nach Baufertigstellung eine Bestätigung darüber zukommen zu lassen, dass die Photovoltaikanlage im Marktstammdatenregister der Bundesnetzagentur registriert worden ist.
+
+Eine solche Registrierungsbestätigung wird den Nutzerinnen und Nutzern durch das Marktstammdatenregister automatisch per E-Mail zugesendet.
+
+Wird bei genehmigungs- oder kenntnisgabepflichtigen Bauvorhaben der Umfang einer zur Solarnutzung geeigneten Dachfläche durch anderweitige „notwendige Nutzungen“, zum Beispiel eine Dachterrasse, reduziert, muss der zuständigen unteren Baurechtsbehörde zusammen mit der Registrierungsbestätigung außerdem ein Dachplan im Sinne des § 8 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) vorgelegt werden. Für nicht genehmigungs- oder kenntnisgabepflichtige Bauvorhaben, im Regelfall Dachsanierungen, gilt dies nicht.
+
+Die Behörde prüft die vorgelegten Nachweise. Bestehen Anhaltspunkte dafür, dass die Photovoltaikpflicht nicht erfüllt ist, kann die Behörde das Bauvorhaben vor Ort begutachten. Die Behörde weist die Bauherrin oder den Bauherrn auf Versäumnisse hin und setzt eine angemessene Frist, diese zu beseitigen.
+
+## 3. Ersatzmaßnahmen
+
+### Können Bauherrinnen und Bauherren auch eine Solarthermie-Anlage installieren?
+
+Ja. Beim Neubau von Gebäuden und bei grundlegenden Dachsanierungen kann die Photovoltaikpflicht gemäß § 23 Absatz 4 Nummer 1 Buchstabe a des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) auch durch die Installation einer solarthermischen Anlage zur Wärmeerzeugung erfüllt werden. Eine Kombination von [Photovoltaik](https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik) und [Solarthermie](https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/solarthermie) ist ebenfalls möglich. Mit den Kollektoren einer solarthermischen Anlage ist die Photovoltaikpflicht entsprechend dem genutzten Flächenanteil ebenfalls erfüllt. Bei grundlegenden Dachsanierungen können zuvor genutzte Solarthermieanlagen zur teilweisen Erfüllung der Pflicht erneut auf dem Dach angebracht werden.
+
+### Kann man auf andere Flächen ausweichen?
+
+Ja. Gemäß § 23 Absatz 4 Satz 1 Nummer 1 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) können Bauherrinnen und Bauherren Photovoltaikanlagen und solarthermische Anlagen ersatzweise auch auf anderen Außenflächen eines Gebäudes, zum Beispiel an der Fassade, oder in dessen unmittelbarer räumlicher Umgebung installieren.
+
+Eine unmittelbare räumliche Umgebung liegt bei Flächen vor, die sich entweder auf demselben Grundstück wie das Gebäude, auf einem unmittelbar angrenzenden Grundstück oder auf demselben Betriebsgelände befinden. Auch hierbei wird der durch die Photovoltaikanlage oder die solarthermische Anlage in Anspruch genommene Flächenanteil auf die Pflichterfüllung angerechnet.
+
+Beim Neubau eines Parkplatzes mit mehr als 35 Stellplätzen können Photovoltaikmodule anstelle der Stellplatzfläche ersatzweise auf der Dachfläche oder auf anderen Außenflächen eines gleichzeitig neu errichteten Gebäudes in unmittelbarer räumlicher Umgebung des Parkplatzes installiert werden. Gemäß § 23 Absatz 4 Satz 2 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) dürfen dafür aber nur Flächen genutzt werden, die nicht zur Erfüllung der Photovoltaikpflicht beim Neubau eines Gebäudes nach § 23 Absatz 1 Satz 1 und Satz 3 desselben Gesetzes benötigt werden.
+
+### Können bereits bestehende Photovoltaik-Dachanlagen auf die Photovoltaikpflicht angerechnet werden?
+
+Nein. Solar- oder Solarthermieanlagen auf bereits bestehenden Gebäuden und Dächern können nicht zur ersatzweisen Erfüllung einer Photovoltaikpflicht angerechnet werden. Die Photovoltaikpflicht knüpft daran an, ob bei dem jeweiligen Bauvorhaben eine Dach- oder Stellplatzfläche neu entsteht. Ist diese Fläche zur Solarnutzung geeignet, soll sie standardmäßig zur Erzeugung von Solarstrom genutzt werden.
+
+## 4. Ausnahmen und Einschränkungen der Photovoltaikpflicht
+
+### Was passiert, wenn ein Dach gleichzeitig begrünt werden muss?
+
+§ 23 Absatz 1 Satz 3 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) gibt vor, dass eine öffentlich-rechtliche Pflicht zur Dachbegrünung bestmöglich mit der Photovoltaikpflicht in Einklang gebracht werden muss. Die eine Pflicht schließt die andere nicht aus. Eine öffentlich-rechtliche Gründachpflicht kann sich beispielsweise aus einer kommunalen Satzung im Sinne des § 74 Absatz 1 Satz 1 Nummer 1 der [Landesbauordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=BauO+BW&psml=bsbawueprod.psml&max=true) ergeben.
+
+Fällt die Photovoltaikpflicht mit einer öffentlich-rechtlichen Pflicht zur Dachbegrünung zusammen, reduziert sich der Umfang der Mindestnutzung um 50 Prozent. Um die Photovoltaikpflicht zu erfüllen, reicht es im Regelfall somit aus, eine Photovoltaikanlage mit einer Mindestmodulfläche im Umfang von 30 Prozent der Eignungsfläche zu installieren. Entscheidet sich eine Bauherrin oder ein Bauherr freiwillig für eine Dachbegrünung, greift diese Regelung jedoch nicht.
+
+### Muss eine Photovoltaikanlage auch auf oder in der Umgebung eines denkmalgeschützten Gebäudes installiert werden?
+
+Die Photovoltaikpflicht entfällt, wenn ihre Erfüllung sonstigen öffentlich-rechtlichen Pflichten widerspricht (§ 23 Absatz 1 Satz 2 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true)). Solche Pflichten können sich unter anderem aus dem Denkmalschutzrecht ergeben. Dabei ist zu berücksichtigen, dass sowohl der Denkmalschutz als auch der Klimaschutz verfassungsrechtlich geschützte Güter darstellen. Beide Belange sind im Rahmen der Gesetze und der Verfassung angemessen auszugleichen, sodass ihnen größtmögliche Geltung verschafft wird.
+
+Die Installation von Photovoltaikanlagen auf und an denkmalgeschützten Gebäuden beziehungsweise in deren Umgebung ist grundsätzlich möglich. Denkmalgeschützte Gebäude oder Bauvorhaben in der Umgebung eines Kulturdenkmals sind nicht pauschal von der Photovoltaikpflicht ausgenommen. In der Regel ist eine denkmalschutzrechtliche Genehmigung erforderlich.
+
+Bei der Entscheidung über die Genehmigungserteilung ist bis zur Erreichung der Netto-Treibhausgasneutralität bis zum Jahr 2040 nach dem Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg der besonderen Bedeutung von Energieeinsparung, Energieeffizienz und erneuerbaren Energien sowie des Verteilnetzausbaus gegenüber denkmalschutzrechtlichen Belangen Rechnung zu tragen (§ 7 Absatz 2 Satz 2 des [Denkmalschutzgesetzes](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=DSchG+BW+%C2%A7+7&psml=bsbawueprod.psml&max=true)).
+
+Zahlreiche Beispiele zeigen, dass häufig denkmalverträgliche Lösungen gefunden werden können. Weitere Informationen bietet die Broschüre der Landesdenkmalpflege [„Denkmalpflege und Erneuerbare Energien“ (PDF)](https://www.denkmalpflege-bw.de/fileadmin/media/denkmalpflege-bw/publikationen_und_service/01_publikationen/06_infobroschueren/02_praktische_denkmalpflege/denkmalpflege-und-erneuerbare-energien/denkmalpflege_erneuerbare_energien.pdf).
+
+### Gibt es eine Härtefallregelung?
+
+Ja. Auf Antrag kann eine Bauherrin oder ein Bauherr von der Photovoltaikpflicht ganz oder teilweise befreit werden, wenn diese nur mit unverhältnismäßig hohem wirtschaftlichem Aufwand erfüllbar wäre. Eine solche wirtschaftliche Unzumutbarkeit liegt gemäß § 7 Absatz 1 der [Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) dann vor, „wenn die Durchführbarkeit des Bauvorhabens insgesamt oder bei unbilliger Härte in sonstiger Weise aufgrund einer Erfüllung der Photovoltaikpflicht gefährdet wäre“.
+
+Die Durchführbarkeit eines Neubauvorhabens gilt als insgesamt gefährdet, wenn die Kosten einer Photovoltaikanlage die Baukosten des Vorhabens um folgende Schwellenwerte übersteigen:
+
+- Neubau Wohngebäude: 10 Prozent
+- Neubau Nichtwohngebäude: 20 Prozent
+- Neubau eines Parkplatzes mit mindestens 35 Stellplätzen: 30 Prozent
+
+Wird einer dieser Schwellenwerte durch die Kosten einer Photovoltaikanlage überschritten, soll eine Bauherrin oder ein Bauherr nicht vollständig von der Photovoltaikpflicht befreit werden, sondern nur bis zum Schwellenwert. Im Ergebnis wäre dann zumindest eine kleinere Photovoltaikanlage zu installieren.
+
+Bei der Gegenüberstellung der Kosten können sowohl bei den Kosten einer Photovoltaikanlage als auch bei den Baukosten die jeweils damit verbundenen Planungskosten berücksichtigt werden.
+
+Anders als bei Neubauvorhaben können sich durch die Installation von Photovoltaikanlagen auf Bestandsgebäuden Mehrkosten insbesondere aufgrund zusätzlicher bau- und elektrotechnischer Maßnahmen ergeben. Beispielsweise kann es erforderlich sein, die Tragfähigkeit eines Gebäudes an die zusätzliche Last der Photovoltaikmodule anzupassen.
+
+Je nach Beschaffenheit eines Bestandsgebäudes können diese Mehrkosten stark variieren und im Einzelfall sehr hoch ausfallen. Übersteigen die mit der Installation einer Photovoltaikanlage verbundenen Netzanschluss- und sonstigen Systemkosten einen Anteil von mehr als 70 Prozent der übrigen Kosten der Photovoltaikanlage, sind diese Kosten gegenüber Bauherrinnen und Bauherren nicht mehr vertretbar. Eine Kostenanpassung wie bei Neubauvorhaben wird an Bestandsgebäuden in der Regel nicht möglich sein. In diesem Fall sind Bauherrinnen und Bauherren bei grundlegenden Dachsanierungen auf Antrag vollständig von der Photovoltaikpflicht zu befreien. Bei Neubauvorhaben ist eine vollständige Befreiung nur im Fall einer „unbilligen Härte in sonstiger Weise“ möglich.
+
+Zu den sonstigen Systemkosten zählen gebäudespezifische Kosten für bau- und elektrotechnische Maßnahmen, die durch die Photovoltaikanlage erforderlich werden, zum Beispiel für Brandschutz, Sicherheit und Statik. Die übrigen Kosten einer Photovoltaikanlage setzen sich aus den Kosten für Module, die notwendige Unterkonstruktion, Wechselrichter, Messeinrichtungen sowie Planungs- und Montagekosten zusammen.
+
+Wird dieser zumutbare Schwellenwert bei grundlegenden Dachsanierungen überschritten, sind die für die Installation einer Photovoltaikanlage erforderlichen Mehrkosten gegenüber Bauherrinnen und Bauherren nicht mehr vertretbar.
+
+Eine Befreiung von der Photovoltaikpflicht ist auch bei einer sogenannten „unbilligen Härte“ möglich. Hohe Kosten für eine Photovoltaikanlage reichen hierfür allein nicht aus. Es müssen weitere Umstände vorliegen, die von der zuständigen Behörde im Einzelfall bewertet werden. Beispiele sind eine fehlende Kreditzusage oder eine fehlende Verpachtungsmöglichkeit für eine Dachfläche. Solche Umstände müssen gegenüber der Behörde nachgewiesen werden.
+
+Bei Neubauvorhaben beziehungsweise bei verfahrenspflichtigen Bauvorhaben müssen Bauherrinnen und Bauherren Befreiungsanträge zusammen mit der Bauvorlage einreichen. Bei grundlegenden Dachsanierungen beziehungsweise bei verfahrensfreien Vorhaben müssen sie spätestens zwei Monate vor Beginn der Bauarbeiten eingereicht werden.
+
+Sobald der Antrag vollständig vorliegt, entscheidet die zuständige Behörde. Bei verfahrensfreien Bauvorhaben oder solchen im vereinfachten Baugenehmigungsverfahren fällt die Entscheidung innerhalb eines Monats; bei einem durchgeführten Baugenehmigungsverfahren innerhalb von zwei Monaten. Weitere Hilfestellungen bieten die vom Umweltministerium bereitgestellten Musterformulare für Befreiungsanträge.
+
+#### Formulare für Befreiungsanträge
+
+- [Befreiungsantrag: Photovoltaikpflicht beim Neubau eines Wohn- oder Nichtwohngebäudes (PDF, 03/2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-WG-und-NWG-barrierefrei.pdf)
+- [Befreiungsantrag: Photovoltaikpflicht beim Neubau eines offenen Parkplatzes (PDF, 03/2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-Parkplatz-barrierefrei.pdf)
+- [Befreiungsantrag: Photovoltaikpflicht bei einer grundlegenden Dachsanierung (PDF, 03/2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Dachsanierungen-BARF-barrierefrei.pdf)
+
+## 5. Allgemeine Fragen zur Photovoltaikpflicht
+
+### Wo findet man die Regelungen zur Photovoltaikpflicht?
+
+Die Photovoltaikpflicht ist in § 23 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg (KlimaG BW)](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) geregelt. Dort steht, in welchen Fällen und für wen die Pflicht gilt, welche Tatbestände die Pflicht auslösen, welche Ersatzmaßnahmen zulässig sind, unter welchen Bedingungen von der Verpflichtung abgesehen werden kann und welche Behörde für den Vollzug zuständig ist. Außerdem wird geregelt, was passiert, wenn die Photovoltaikpflicht mit anderen öffentlich-rechtlichen Pflichten zusammentrifft, zum Beispiel mit Dachbegrünung oder Denkmalschutz.
+
+Diese grundsätzlichen Bestimmungen des baden-württembergischen Klimaschutz- und Klimawandelanpassungsgesetzes werden durch die [Photovoltaik-Pflicht-Verordnung (PVPf-VO)](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=PVInstPfV+BW&psml=bsbawueprod.psml&max=true) des Umweltministeriums konkretisiert und ergänzt. Beide Regelwerke müssen daher zusammen gelesen werden.
+
+### Wer ist für den Vollzug der Photovoltaikpflicht zuständig? Wo stelle ich einen Antrag auf Befreiung?
+
+Die Photovoltaikpflicht bei Neubauten und grundlegenden Dachsanierungen ist eine bauordnungsrechtliche Pflicht, die daran anknüpft, ob bei dem jeweiligen Bauvorhaben eine Dachfläche neu entsteht. Für den Vollzug der Photovoltaikpflicht sind in diesen Fällen die unteren Baurechtsbehörden gemäß § 31 Absatz 1 des [Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true) sachlich zuständig. Auch Befreiungsanträge sind bei dieser Behörde zu stellen.
+
+Die untere Baurechtsbehörde ist je nach Standort des Gebäudes die Gemeinde- beziehungsweise Stadtverwaltung oder das Landratsamt. Die Kontaktdaten der zuständigen Baurechtsbehörde sind über das [Serviceportal Baden-Württemberg](https://www.service-bw.de/zufi) erhältlich.
+
+Soll ein öffentlicher Parkplatz entstehen, ist die Straßenbaubehörde zuständig.
+
+### Gibt es Fördermittel?
+
+Die Installation und der Betrieb einer Photovoltaikanlage werden insbesondere durch das [Erneuerbare-Energien-Gesetz](https://www.gesetze-im-internet.de/eeg_2014/) gefördert. Es gewährleistet beispielsweise einen auf zwanzig Jahre befristeten gesetzlichen Vergütungsanspruch für Strom, der in das öffentliche Versorgungsnetz eingespeist wird.
+
+Darüber hinaus fördert die Kreditanstalt für Wiederaufbau (KfW) die Installation einer Photovoltaikanlage und eines Stromspeichers über den Standard-Förderkredit „Erneuerbare Energien“ (Nr. 270): [Erneuerbare Energien – Standard (270) | KfW](https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/F%C3%B6rderprodukte/Erneuerbare-Energien-Standard-(270)/).
+
+Für eine weitere Beratung empfiehlt das Ministerium, mit der zuständigen regionalen Energieagentur Kontakt aufzunehmen: [Regionale Energieagenturen (KEA-BW)](https://www.kea-bw.de/kommunaler-klimaschutz/regionale-energieagenturen).
+
+## 6. Weitere Informationen und Dokumente
+
+- [Landesrecht Baden-Württemberg: Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg](https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true)
+- [Landesrecht Baden-Württemberg: Photovoltaik-Pflicht-Verordnung](https://www.landesrecht-bw.de/jportal/portal/t/srg/page/bsbawueprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=4&numberofresults=16&fromdoctodoc=yes&doc.id=jlr-PVInstPfVBWrahmen&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint)
+- [Energieatlas Baden-Württemberg: Solarkataster](https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen)
+- [KLN Rechtsanwälte und Fraunhofer-Institut für Solare Energiesysteme: Fach- und Rechtsgutachten zur Photovoltaikpflicht in Baden-Württemberg (PDF)](https://www.kln-anwaelte.de/wp-content/uploads/2021/10/210421_Gutachten_PV-Pflicht_BW.pdf)
+- [Photovoltaik-Pflicht-Verordnung: Begründung (PDF, 2021)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Photovoltaikpflicht-Verordnung-Baden-Wuerttemberg-Verordnungsbegruendung-barrierefrei.pdf)
+- [Verordnung des Umweltministeriums zur Änderung der Photovoltaik-Pflicht-Verordnung (PDF, 2022)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Verordnung-zur-Aenderung-der-PV-Pflicht-Verordnung-barrierefrei.pdf)
+- [Befreiungsantrag: Neubau eines Wohn- oder Nichtwohngebäudes (PDF, 2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-WG-und-NWG-barrierefrei.pdf)
+- [Befreiungsantrag: Neubau eines offenen Parkplatzes (PDF, 2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Neubau-Parkplatz-barrierefrei.pdf)
+- [Befreiungsantrag: grundlegende Dachsanierung (PDF, 2023)](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Erneuerbare_Energien/Sonnenenergie/PV-Pflicht/Muster-Befreiungsantrag-Dachsanierungen-BARF-barrierefrei.pdf)

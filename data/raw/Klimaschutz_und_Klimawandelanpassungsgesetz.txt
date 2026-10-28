@@ -1,0 +1,734 @@
+Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg (KlimaG BW)
+
+Dokumenttyp: Gesetz
+Amtliche Abkürzung: KlimaG BW
+Ausfertigungsdatum: 07.02.2023
+Gültig ab: 11.02.2023
+Quelle: Land Baden-Württemberg
+Fundstelle: GBl. 2023, 26
+Stand der vorliegenden Fassung: zum 27.10.2026 aktuellste verfügbare Fassung der Gesamtausgabe
+Letzte berücksichtigte Änderung: mehrfach geändert sowie Titel und §§ 15a, 27a bis 27g, 28a bis 29f und 34a, 34b neu eingefügt durch Artikel 1 des Gesetzes vom 29.07.2025 (GBl. 2025 Nr. 77)
+
+Quelle im Internet:
+https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007BFD/format/xsl
+
+ABSCHNITT 1 – Allgemeine Bestimmungen
+
+§ 1 Zweck des Gesetzes
+
+Dieses Gesetz bezweckt den Schutz des Klimas und die Anpassung an die unvermeidbaren Folgen des Klimawandels in Baden-Württemberg. Es zielt darauf ab,
+
+1. im Rahmen der internationalen, europäischen und nationalen Klimaschutzziele einen angemessenen Beitrag zum Klimaschutz durch Reduzierung der Treibhausgasemissionen hin zu Netto-Treibhausgasneutralität zu leisten und zugleich zu einer nachhaltigen Energie-, Wärme- und Verkehrswende beizutragen sowie
+2. für die Anpassung an die unvermeidbaren Folgen des Klimawandels zu sorgen und die Transformation in eine klimaresiliente Gesellschaft zu unterstützen.
+
+§ 2 Begriffsbestimmungen
+
+(1) Treibhausgasemissionen im Sinne dieses Gesetzes sind anthropogene Emissionen von Kohlenstoffdioxid (CO₂), Methan (CH₄), Distickstoffoxid (N₂O), Stickstofftrifluorid (NF₃), Fluorkohlenwasserstoffen (H-FKW/HFC), perfluorierten Kohlenwasserstoffen (FKW/PFC) und Schwefelhexafluorid (SF₆), die in Baden-Württemberg entstehen.
+
+(2) Netto-Treibhausgasneutralität im Sinne dieses Gesetzes ist das Gleichgewicht zwischen Treibhausgasemissionen aus Quellen und dem Abbau von Treibhausgasen durch Senken.
+
+(3) Öffentliche Hand im Sinne dieses Gesetzes ist:
+
+1. das Land, die Gemeinden und die Gemeindeverbände sowie jede aufgrund eines Landesgesetzes eingerichtete Körperschaft, Personenvereinigung oder Vermögensmasse des öffentlichen Rechts mit Ausnahme von Religionsgemeinschaften und
+2. jede Körperschaft, Personenvereinigung oder Vermögensmasse des Privatrechts, wenn an ihr eine Person gemäß Nummer 1 allein oder mehrere Personen gemäß Nummer 1 zusammen unmittelbar oder mittelbar
+   a) die Mehrheit des gezeichneten Kapitals besitzen,
+   b) über die Mehrheit der mit den Anteilen verbundenen Stimmrechte verfügen oder
+   c) mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans bestellen können.
+
+(4) Liegenschaften des Landes im Sinne dieses Gesetzes sind alle bebauten und unbebauten Grundstücke im Eigentum des Landes Baden-Württemberg, unabhängig davon, von welcher staatlichen Stelle des Landes sie verwaltet werden. Als Liegenschaften des Landes gelten auch Grundstücke Dritter, die zugunsten des Landes mit einem grundstücksgleichen Recht, insbesondere einem Erbbaurecht, belastet sind, sowie Bauwerke des Landes, die auf fremden Grundstücken liegen oder errichtet werden.
+
+(5) Der gesamte Lebenszyklus im Sinne dieses Gesetzes umfasst die Herstellungs-, die Errichtungs-, Nutzungs- und Entsorgungsphase sowie die Wiederverwertungspotenziale.
+
+(6) Sanierung im Sinne dieses Gesetzes bezeichnet durchgreifende Maßnahmen zum Substanzerhalt oder zur Modernisierung eines Bauwerks.
+
+(7) Wohngebäude im Sinne dieses Gesetzes sind Gebäude, einschließlich der zugehörigen Garagen und Nebenräume, die nach ihrer Zweckbestimmung mindestens zur Hälfte dem Wohnen dienen, einschließlich Wohn-, Alten- und Pflegeheimen sowie ähnlichen Einrichtungen, die zum dauerhaften Wohnen bestimmt sind.
+
+(8) Nichtwohngebäude im Sinne dieses Gesetzes sind Gebäude, die keine Wohngebäude sind.
+
+(9) Außenflächen eines Gebäudes im Sinne dieses Gesetzes sind alle Bestandteile der Gebäudehülle, die sich an den Außenseiten des Gebäudes befinden, mit Ausnahme der Dachfläche.
+
+(10) Unmittelbare räumliche Umgebung eines Gebäudes oder eines Parkplatzes im Sinne dieses Gesetzes ist gegeben, wenn eine Photovoltaik- oder solarthermische Anlage auf demselben oder einem unmittelbar angrenzenden Grundstück oder auf demselben Betriebsgelände installiert wird.
+
+(11) Grundlegende Dachsanierung im Sinne dieses Gesetzes ist eine Baumaßnahme, bei der die Abdichtung oder die Eindeckung eines Dachs vollständig erneuert wird. Gleiches gilt auch bei einer Wiederverwendung von Baustoffen. Ausgenommen sind Baumaßnahmen, die ausschließlich zur Behebung kurzfristig eingetretener Schäden vorgenommen werden.
+
+(12) Qualifizierte Sachverständige im Sinne dieses Gesetzes sind:
+
+1. die nach Bundes- oder Landesrecht zur Ausstellung von Energieausweisen Berechtigten,
+2. Personen, die für ein zulassungspflichtiges Bau-, Ausbau- oder anlagentechnisches Gewerbe die Voraussetzungen zur Eintragung in die Handwerksrolle erfüllen, sowie Handwerksmeisterinnen und Handwerksmeister der zulassungsfreien Handwerke dieser Bereiche und Personen, die aufgrund ihrer Ausbildung oder ihres beruflichen Werdegangs berechtigt sind, ein solches Handwerk ohne Meistertitel selbstständig auszuüben.
+
+(13) Systematisches Energiemanagement im Sinne dieses Gesetzes ist das systematische und kontinuierliche Erheben, Erfassen und Optimieren aller relevanten Energieverbraucher mindestens anhand folgender Elemente:
+
+1. die Formulierung von Energieeinsparzielen und Treibhausgasminderungszielen,
+2. die ämter- oder abteilungsübergreifende Koordinierung aller energierelevanten Aufgaben,
+3. die Benennung einer für das Energiemanagement zuständigen Person,
+4. das kontinuierliche Energieberichtswesen einschließlich der Erstellung eines Energieberichts mit mindestens jährlichem Turnus,
+5. das monatliche Energieverbrauchscontrolling und
+6. die Erfassung von mindestens jeweils 80 Prozent des Endenergieverbrauchs in den Kategorien der Energieverbraucher gemäß § 18 Absatz 2 Nummer 1 bis 8.
+
+(14) Wärme im Sinne dieses Gesetzes ist Wärme und Kälte für Raumheizung oder -kühlung, Erzeugung von Warmwasser sowie Prozesswärme und -kühlung.
+
+(15) Versorgungstruktur im Sinne dieses Gesetzes ist die Infrastruktur zur Erzeugung, Verteilung und Speicherung von Wärme oder anderer zur Wärmeerzeugung dienender Energieträger.
+
+(16) Kommunale Wärmeplanung im Sinne dieses Gesetzes ist ein strategischer Planungsprozess mit dem Ziel einer klimaneutralen kommunalen Wärmeversorgung bis zum Jahr 2040 einschließlich der Aufstellung eines kommunalen Wärmeplans.
+
+(17) Energieunternehmen im Sinne dieses Gesetzes sind natürliche oder juristische Personen, die Wärme, Kälte, Strom oder Gas nicht nur für den Eigenbedarf zur Nutzung in Gebäuden erzeugen oder an Endkunden liefern, sowie Wärme-, Kälte-, Strom- oder Gasnetzbetreiber und Brennstofflieferanten.
+
+(18) Datenschutz-Grundverordnung im Sinne dieses Gesetzes ist die Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1, zuletzt ber. ABl. L 74 vom 4.3.2021, S. 35).
+
+§ 3 Klima-Rangfolge
+
+(1) Bei dem Schutz des Klimas soll folgende Rangfolge in absteigender Reihe eingehalten werden:
+
+1. Vermeiden von Treibhausgasemissionen,
+2. Verringern von Treibhausgasemissionen und
+3. Versenken nicht oder mit verhältnismäßigem Aufwand nicht zu vermeidender oder zu verringernder Treibhausgase.
+
+Auch geringen Beiträgen zum Klimaschutz kommt Bedeutung zu. Maßgeblich müssen die Bereiche Energie, Mobilität, Produktion und Konsum, Beschäftigung sowie Bauen zum Klimaschutz beitragen. Insbesondere bei energiebedingten Treibhausgasemissionen sollen das Vermeiden und Verringern der Emissionen in erster Linie durch Einsparung sowie effiziente Bereitstellung, Umwandlung, Nutzung und Speicherung von Energie sowie durch den Ausbau und die Nutzung erneuerbarer Energien erreicht werden.
+
+(2) Neben dem Schutz des Klimas ist die Anpassung an die unvermeidbaren Folgen des Klimawandels geboten. Sie kann den Schutz des Klimas nicht ersetzen; ihr kommt ergänzende Funktion zu.
+
+§ 4 Erhalt, Schutz und Aufbau natürlicher Kohlenstoffspeicher
+
+Zur Erreichung der Klimaschutzziele für Baden-Württemberg und zur Steigerung der Klimaresilienz tragen natürliche Kohlenstoffspeicher wie Moore, Wälder, Humus und Grünland über ihre Speicher- und Senkenleistung bei. Daher sollen natürliche Kohlenstoffspeicher im Land erhalten, geschützt und aufgebaut werden; das Land fördert vorrangig ihren Aufbau, außerdem ihren Erhalt und Schutz im Rahmen der verfügbaren Haushaltsmittel. Klimarelevant sind Maßnahmen hierbei allerdings nur, wenn sie über Jahrzehnte beziehungsweise möglichst dauerhaft gesichert sind.
+
+§ 5 Allgemeine Vorbildfunktion der öffentlichen Hand
+
+(1) Der öffentlichen Hand kommt beim Klimaschutz und der Klimawandelanpassung unter Berücksichtigung der Klima-Rangfolge in ihrem Organisationsbereich eine allgemeine Vorbildfunktion zu. Dies gilt, sofern die Organisation der Aufgabenerledigung nicht abschließend durch Bundesrecht geregelt ist oder eine gemeinsame Umsetzung von Maßnahmen durch das Land mit dem Bund oder der Europäischen Union vorgesehen ist.
+
+(2) Die Gemeinden und Gemeindeverbände erfüllen die Vorbildfunktion in eigener Verantwortung. Sie betreiben Klimaschutz und Klimawandelanpassung auch bei einem Tätigwerden innerhalb der kommunalen Daseinsvorsorge; Klimaschutz und Klimawandelanpassung sind öffentliche Aufgaben gemäß § 2 Absatz 1 der Gemeindeordnung und § 2 Absatz 1 Satz 1 der Landkreisordnung. Das Land wird die Gemeinden und Gemeindeverbände beim Klimaschutz und der Klimawandelanpassung unterstützen. Näheres soll in einer Vereinbarung zwischen Land und kommunalen Landesverbänden beschlossen werden.
+
+§ 6 Allgemeine Verpflichtung zu Klimaschutz und Klimawandelanpassung; Informationsbereitstellung
+
+(1) Jede Person soll nach ihren Möglichkeiten zur Verwirklichung der Ziele des Klimaschutzes und der Klimawandelanpassung unter Berücksichtigung der Klima-Rangfolge beitragen.
+
+(2) Das allgemeine Verständnis für die Ziele des Klimaschutzes und der Klimawandelanpassung ist mit geeigneten Mitteln zu fördern. Die staatlichen, kommunalen und privaten Erziehungs-, Bildungs- und Informationsträger sollen nach ihren Möglichkeiten über Ursachen und Bedeutung des Klimawandels sowie die Aufgaben von Klimaschutz und Klimawandelanpassung aufklären und das Bewusstsein für einen sparsamen Umgang mit Energie fördern.
+
+(3) Die Landesregierung und die jeweils zuständigen Ministerien stellen Informationen zum Zweck dieses Gesetzes sowie seinen Zielsetzungen, Strategien, Maßnahmen und Instrumenten in gebündelter Form einfach zugänglich, transparent und verständlich bereit.
+
+§ 7 Klima-Berücksichtigungsgebot
+
+(1) Die öffentliche Hand hat im Rahmen ihrer Zuständigkeit bei Planungen und Entscheidungen den Zweck gemäß § 1 Satz 2 Nummer 1 und die zu seiner Erfüllung beschlossenen Ziele bestmöglich zu berücksichtigen. Die Landesregierung bestimmt das Nähere durch Verwaltungsvorschrift.
+
+(2) Für die Berücksichtigung der Belange der Klimawandelanpassung gilt § 8 des Bundes-Klimaanpassungsgesetzes (KAnG) vom 20. Dezember 2023 (BGBl. 2023 I Nr. 393) entsprechend.
+
+§ 8 CO₂-Schattenpreis
+
+(1) Bei der Planung von Baumaßnahmen betreffend Liegenschaften des Landes, insbesondere bei dem Neubau und der Sanierung von Bauwerken im Eigentum des Landes, ist im Rahmen von Wirtschaftlichkeitsuntersuchungen ein rechnerischer Preis entsprechend des vom Umweltbundesamt wissenschaftlich ermittelten und empfohlenen Wertes für jede über den Lebenszyklus der Maßnahme entstehende Tonne Kohlenstoffdioxid zu veranschlagen (CO₂-Schattenpreis). Dies gilt nur, wenn das Land selbst über die Bauherreneigenschaft verfügt oder zum Zeitpunkt der Entscheidung des Neubaus eines Bauwerks feststeht, dass dieses in das Eigentum des Landes übergeht. Der CO₂-Schattenpreis gelangt insbesondere bei Baumaßnahmen der Staatlichen Vermögens- und Hochbauverwaltung Baden-Württemberg, der Wasserwirtschaftsverwaltung Baden-Württemberg, der Straßenbauverwaltung Baden-Württemberg und der Anstalt des öffentlichen Rechts Forst Baden-Württemberg zur Anwendung.
+
+(2) Der CO₂-Schattenpreis soll auch bei der Beschaffung von Liefer- und Dienstleistungen durch das Land angewendet werden. Die Landesregierung regelt das Nähere durch Verwaltungsvorschrift.
+
+(3) Die Bepreisung von Treibhausgasemissionen nach anderen Bestimmungen bleibt unberührt.
+
+(4) Der CO₂-Schattenpreis ist erstmalig für Maßnahmen zu veranschlagen, mit deren Wirtschaftlichkeitsuntersuchung ab dem 1. Juni 2023 begonnen wird.
+
+(5) Das Finanzministerium, das Umweltministerium, das Verkehrsministerium und das Ministerium Ländlicher Raum werden ermächtigt, gemeinsam durch Rechtsverordnung nähere Regelungen zu dem CO₂-Schattenpreis bei Baumaßnahmen gemäß Absatz 1 zu treffen, insbesondere über
+
+1. die Festlegung der Anwendung anderer Instrumente anstelle des CO₂-Schattenpreises für einzelne Anwendungsbereiche, soweit diese mindestens die gleiche Wirkung entfalten wie der CO₂-Schattenpreis, wobei die Methodenkonvention zur Ermittlung von Umweltkosten des Umweltbundesamtes zu berücksichtigen ist,
+2. die Festlegung und Anpassung der Höhe des CO₂-Schattenpreises für einzelne Anwendungsbereiche,
+3. die Art und Weise der Ermittlung der Kohlenstoffdioxidemissionen,
+4. die sachliche Reichweite der Kohlenstoffdioxidbilanzierung,
+5. einen abweichenden Zeitpunkt der erstmaligen Anwendung des CO₂-Schattenpreises in einzelnen Anwendungsbereichen,
+6. Konkretisierungen der einzelnen Anwendungsbereiche des CO₂-Schattenpreises und sachlich begründete Ausnahmen von dessen Anwendung sowie
+7. Bagatellgrenzen, bei denen der CO₂-Schattenpreis nicht angewendet werden muss.
+
+(6) Den Gemeinden und Gemeindeverbänden wird empfohlen, für die Planung von Baumaßnahmen sowie die Beschaffung von Liefer- und Dienstleistungen in eigener Zuständigkeit einen CO₂-Schattenpreis einzuführen.
+
+§ 9 Förderprogramme
+
+(1) Förderprogramme des Landes sind bei erstmaligem Erlass, Fortschreibung oder Änderung auf ihre Vereinbarkeit mit dem Zweck dieses Gesetzes und den zu seiner Erfüllung beschlossenen Zielen vom fachlich zuständigen Ministerium zu prüfen. Das Ergebnis der Prüfung ist aktenkundig zu machen. Von der Prüfung ausgenommen ist die Beteiligung des Landes an Förderprogrammen von Bund und Europäischer Union.
+
+(2) Die Förderprogramme des Landes für den kommunalen Hochbau sollen den Grundsätzen des nachhaltigen Bauens Rechnung tragen. Darüber hinaus sollen die Förderprogramme des Landes für den Hochbau, die Nichtwohngebäude zum Gegenstand haben, den Grundsätzen des nachhaltigen Bauens grundsätzlich Rechnung tragen. Wer sich um eine Förderung gemäß Satz 1 und 2 bewirbt, hat die Prüfung der Grundsätze des nachhaltigen Bauens nachzuweisen. Das Nähere wird durch Verwaltungsvorschriften für den jeweiligen Zuwendungsbereich geregelt.
+
+(3) Förderprogramme des Landes sollen spätestens bis zum Jahr 2040 so ausgestaltet werden, dass sie nettotreibhausgasneutral sind. Die Landesregierung evaluiert im Jahr 2030 den Stand der Umsetzung dieser Zielsetzung.
+
+ABSCHNITT 2 – Klimaschutzziele
+
+§ 10 Klimaschutzziele für Baden-Württemberg; Sektorziele
+
+(1) Unter Berücksichtigung der internationalen, europäischen und nationalen Klimaschutzziele und -maßnahmen wird die Gesamtsumme der Treibhausgasemissionen in Baden-Württemberg im Vergleich zu den Gesamtemissionen des Jahres 1990 zur Erreichung der Netto-Treibhausgasneutralität bis zum Jahr 2040 schrittweise verringert. Bis zum Jahr 2030 erfolgt eine Minderung um mindestens 65 Prozent. Die Minderungsbeiträge aus dem europäischen System für den Handel mit Treibhausgasemissionszertifikaten finden dabei entsprechende Berücksichtigung.
+
+(2) Zur Erreichung des Klimaschutzziels für das Jahr 2030 werden für die nachstehenden Sektoren in Anlage 1 Minderungsziele jeweils im Vergleich zu den Treibhausgasemissionen des Jahres 1990 festgelegt:
+
+1. Energiewirtschaft,
+2. Industrie,
+3. Verkehr,
+4. Gebäude,
+5. Landwirtschaft,
+6. Abfallwirtschaft und Sonstiges sowie
+7. Landnutzung, Landnutzungsänderung und Forstwirtschaft.
+
+Die Einhaltung des jeweiligen Sektorziels liegt in der Verantwortung des für den jeweiligen Sektor nach Anlage 1 federführend verantwortlichen Ministeriums. Die Zuständigkeit für die Umsetzung einzelner sektoraler Maßnahmen kann gemäß Geschäftsverteilung auch bei anderen Ministerien als dem federführend verantwortlichen Ressort liegen. Die Zuständigkeitsverteilung innerhalb der Landesregierung bleibt unberührt. Subjektive Rechte und klagbare Rechtspositionen werden durch dieses Gesetz oder aufgrund dieses Gesetzes nicht begründet.
+
+§ 11 Klimaschutzziele für die Landesverwaltung
+
+(1) Das Land setzt sich zum Ziel, bis zum Jahr 2030 die Landesverwaltung netto-treibhausgasneutral zu organisieren. Zur Verwirklichung dieses Ziels setzt die Landesregierung ein Konzept um, das die Hochschulen sowie Behörden des Landes und sonstige Landeseinrichtungen ohne eigene Rechtspersönlichkeit umfasst, soweit sie der unmittelbaren Organisationsgewalt des Landes unterliegen. In begründeten Ausnahmefällen kann die Landesregierung Organisationseinheiten vom Anwendungsbereich des Konzepts ausnehmen. Kompensation bildet die Ausnahme und ist lediglich im Wege rechtlich anerkannter Emissionsminderungsmaßnahmen im Einklang mit Artikel 6 des von den Vertragsstaaten der Klimarahmenkonvention der Vereinten Nationen unterzeichneten und mit Gesetz vom 28. September 2016 ratifizierten Übereinkommens von Paris vom 12. Dezember 2015 (BGBl. 2016 II S. 1082, 1083) zulässig; innerhalb des Aufgabenbereichs des Landesbetriebs »Vermögen und Bau Baden-Württemberg« unterbleibt eine Kompensation von Treibhausgasemissionen bis zum Jahr 2030.
+
+(2) Die Landesregierung legt dem Landtag auf Basis wesentlicher Indikatoren alle zwei Jahre einen Gesamtbericht zum Umsetzungsstand des Konzepts gemäß Absatz 1 vor. Der Gesamtbericht umfasst insbesondere Angaben zur Entwicklung der CO₂-Emissionen durch die Nutzung von Gebäuden, Art und Höhe des Strom- und Wärmeverbrauchs in der Landesverwaltung sowie des Kraftstoffverbrauchs durch Dienstreisen.
+
+§ 12 Klimaschutzziele für die Kommunalverwaltungen
+
+Das Land unterstützt die Gemeinden und Gemeindeverbände bei dem Ziel, bis zum Jahr 2040 netto-treibhausgasneutrale Kommunalverwaltungen zu erreichen.
+
+§ 13 Klimaschutzziele für die Unternehmen; Klimaschutzvereinbarungen
+
+(1) Unternehmen sollen sich ambitionierte Klimaschutzziele geben.
+
+(2) Das Umweltministerium wirkt auf den Abschluss von freiwilligen Klimaschutzvereinbarungen mit Unternehmen hin. Ziel dieser Klimaschutzvereinbarungen ist es, die Treibhausgasemissionen und den Energieverbrauch des Unternehmens zu reduzieren. Die Klimaschutzvereinbarungen sollen konkrete Maßnahmen zur Umsetzung des Ziels enthalten. Es soll vereinbart werden, dass dem Umweltministerium über die erzielten Einsparungen bei den Treibhausgasemissionen und dem Energieverbrauch regelmäßig zu berichten ist.
+
+(3) Das Land als Anteilseigner tritt bei Unternehmen, an denen es mehrheitlich beteiligt ist und die ein hohes Potenzial zur Reduzierung von Treibhausgasemissionen aufweisen, im Rahmen des rechtlich Möglichen dafür ein, dass diese eine Klimaschutzvereinbarung nach dieser Bestimmung abschließen.
+
+ABSCHNITT 3 – Maßnahmen und Monitoring
+
+§ 14 Klima-Maßnahmen-Register
+
+(1) Die Maßnahmen der Landesregierung zum Schutz des Klimas werden in einem einheitlichen, übergeordneten und fortlaufenden Register geführt (Klima-Maßnahmen-Register). Das Klima-Maßnahmen-Register dient der Landesregierung als Entscheidungs- und Überprüfungsgrundlage, ob sich das Land auf dem Pfad zur Erreichung der Klimaschutzziele sowie der Sektorziele für Baden-Württemberg befindet. Es ist über das Internet öffentlich einsehbar. Das Klima-Maßnahmen-Register ist kein Plan oder Programm im Sinne des Umweltverwaltungsgesetzes.
+
+(2) Das Klima-Maßnahmen-Register enthält
+
+1. Maßnahmen, die von dem für den jeweiligen Sektor nach Anlage 1 federführend verantwortlichen Ministerium benannt werden, sowie Maßnahmen, die von anderen Ministerien als dem für den Sektor federführend verantwortlichen Ministerium benannt werden, jedoch gemäß Geschäftsverteilung in deren Zuständigkeitsbereich liegen, und
+2. Maßnahmen aus dem Bereich der netto-treibhausgasneutralen Landesverwaltung.
+
+Die Maßnahmen aus den Sektoren haben die Wirkungsbeiträge und Wechselwirkungen durch Klimaschutzmaßnahmen des Bundes und der Europäischen Union zu berücksichtigen.
+
+(3) Die Landesregierung fasst jährlich über das Klima-Maßnahmen-Register Beschluss. Der Beschlussfassung ist die Stellungnahme des Klima-Sachverständigenrats zur jährlichen Klima-Berichterstattung zugrunde zu legen; ihr hat eine geeignete Beteiligung der Öffentlichkeit vorauszugehen. Nach der Beschlussfassung ist das Klima-Maßnahmen-Register durch die Landesregierung dem Landtag zuzuleiten.
+
+§ 15 Strategie zur Anpassung an die unvermeidbaren Folgen des Klimawandels
+
+Die Strategie der Landesregierung zur Anpassung an die unvermeidbaren Folgen des Klimawandels vom 25. Juli 2023, die auf der Internetseite des Umweltministeriums Baden-Württemberg abrufbar ist, wird im Jahr 2029 und danach mindestens alle fünf Jahre durch die Landesregierung fortgeschrieben. Die Landesregierung verabschiedet die Strategie unter Berücksichtigung von § 10 KAnG mit vorsorgenden Anpassungsmaßnahmen auf Basis des Berichts zur Anpassung an die unvermeidbaren Folgen des Klimawandels und unter Berücksichtigung aktueller wissenschaftlicher Erkenntnisse nach Anhörung von Verbänden sowie Beteiligung der Öffentlichkeit.
+
+§ 15a Klimaangepasste Landesliegenschaften
+
+Das Land setzt sich zum Ziel, die Liegenschaften des Landes an die Folgen des Klimawandels anzupassen. Bei der Errichtung und Modernisierung von Gebäuden im Eigentum des Landes werden angemessene Maßnahmen ergriffen. Ein Bewertungssystem für das nachhaltige Bauen entsprechend § 7 KAnG soll dazu in geeigneter Form angewendet werden.
+
+§ 16 Monitoring
+
+(1) Ein Monitoring auf Basis quantitativer und qualitativer Erhebungen überprüft
+
+1. das Erreichen der Klimaschutzziele für Baden-Württemberg sowie der Sektorziele und
+2. die Umsetzung von Maßnahmen nach dem Klima-Maßnahmen-Register sowie nach der Strategie zur Anpassung an die unvermeidbaren Folgen des Klimawandels.
+
+(2) Das Monitoring umfasst
+
+1. eine jährliche Klima-Berichterstattung beginnend im Jahr 2023 mit folgenden Einzelberichten und Stellungnahmen:
+   a) einen Emissionsbericht des Statistischen Landesamts, insbesondere zu der Entwicklung der Treibhausgasemissionen unter Berücksichtigung der Minderungsbeiträge aus dem europäischen System für den Handel mit Treibhausgasemissionszertifikaten,
+   b) Berichte der federführend verantwortlichen Ministerien für den jeweiligen Sektor, zum Umsetzungsstand der im Klima-Maßnahmen-Register aufgeführten Maßnahmen sowie über die Notwendigkeit oder die bereits erfolgte Aufnahme neuer Maßnahmen in das Klima-Maßnahmen-Register (Sektorberichte); das Wirtschaftsministerium gibt den Wirtschaftsverbänden mit Sitz in Baden-Württemberg Gelegenheit, über die Maßnahmen der Industrie zum Klimaschutz über die gesamte Lieferkette der Unternehmen zu berichten, nimmt eine Zusammenfassung dieser Berichte in geeigneter Form in den Sektorbericht Industrie auf und lässt ihn in eine Bewertung für das Sektorziel Industrie einfließen,
+   c) eine Stellungnahme des Klima-Sachverständigenrats, insbesondere zu der Entwicklung der klima- und energiepolitischen Rahmenbedingungen, zu dem Stand der Zielerreichung in den einzelnen Sektoren, zum konkreten Einfluss der Landesebene auf die Zielerreichung sowie erforderlichenfalls Vorschläge für zusätzliche Klimaschutzmaßnahmen mit einer Einschätzung ihrer Wirksamkeit,
+2. einen Klimaschutz- und Projektionsbericht spätestens alle drei Jahre, beginnend im Jahr 2024, insbesondere
+   a) zu der Entwicklung der Treibhausgasemissionen in den verschiedenen Sektoren,
+   b) zu dem Umsetzungsstand der Klimaschutzmaßnahmen im jeweiligen Berichtszeitraum,
+   c) mit Projektionen von Treibhausgasemissionen und deren Auswirkungen auf das Erreichen der Klimaschutzziele für Baden-Württemberg sowie der Sektorziele, wobei die Bewertung auch unter Berücksichtigung des CO₂-Budget-Ansatzes erfolgen kann,
+   d) im Falle einer drohenden Zielabweichung gemäß Buchstabe c mit einer Analyse der Ursachen der Zielabweichung und der jeweiligen Entscheidungsebene sowie Maßnahmenvorschlägen zur Wiedererreichung des Zielpfads in dem jeweiligen Sektor und
+   e) mit Vorschlägen zur Weiterentwicklung von Klimaschutzmaßnahmen, sowie
+3. einen Bericht zur Anpassung an die unvermeidbaren Folgen des Klimawandels in den Jahren 2025 und 2031 sowie danach alle fünf Jahre, insbesondere
+   a) zu den wesentlichen Folgen des Klimawandels für Baden-Württemberg,
+   b) zu der Umsetzung und Wirkung wichtiger Anpassungsmaßnahmen und
+   c) mit Vorschlägen zur Weiterentwicklung der Strategie zur Anpassung an die unvermeidbaren Folgen des Klimawandels.
+
+In den Jahren, in denen ein Klimaschutz- und Projektionsbericht gemäß Satz 1 Nummer 2 vorgelegt wird, enthält dieser die jährliche Klima-Berichterstattung gemäß Satz 1 Nummer 1. Bei der Klima-Berichterstattung und dem Klimaschutz- und Projektionsbericht sind die Wirkungsbeiträge und Wechselwirkungen durch Klimaschutzmaßnahmen des Bundes und der Europäischen Union zu berücksichtigen sowie wichtige Aspekte einer verursacherbezogenen Betrachtung einzubeziehen.
+
+(3) Zuständig für die Erstellung der Berichtsteile in Absatz 2 Satz 1 Nummer 1 Buchstabe a sowie Nummer 2 Buchstabe a ist das Statistische Landesamt. Es legt seine Berichte dem Umweltministerium spätestens zum 30. Juni des jeweiligen Erscheinungsjahres vor. Zuständig für die Erstellung der Berichtsteile in Absatz 2 Satz 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b, d und e für jeden in § 10 Absatz 2 Satz 1 genannten Sektor sind die für die Umsetzung der jeweiligen Maßnahmen zuständigen Ministerien. Das für den jeweiligen Sektor nach Anlage 1 federführend verantwortliche Ministerium koordiniert die Berichtsbeiträge der anderen Ministerien, sofern diese Maßnahmen umsetzen, die zu seinem Sektorziel beitragen. Die federführend verantwortlichen Ministerien legen auf Basis einer einheitlichen Struktur ihre Berichtsteile dem Umweltministerium spätestens zum 30. Juni des jeweiligen Erscheinungsjahres vor. Zuständig für die Erstellung der Berichte in Absatz 2 Satz 1 Nummer 3 sind das Umweltministerium und die Landesanstalt für Umwelt Baden-Württemberg unter Mitwirkung der anderen Ministerien. Nach der Erstellung des Klimaschutz- und Projektionsberichts und des Berichts zur Anpassung an die unvermeidbaren Folgen des Klimawandels erhält der Klima-Sachverständigenrat jeweils Gelegenheit zur Stellungnahme.
+
+(4) Die Berichte werden einschließlich der Stellungnahme des Klima-Sachverständigenrats nach Beschlussfassung durch die Landesregierung dem Landtag zugeleitet. Stellt der Klimaschutz- und Projektionsbericht eine drohende erhebliche Zielabweichung fest, beschließt die Landesregierung möglichst innerhalb von vier Monaten nach der Beschlussfassung über den Bericht die erforderlichen Landesmaßnahmen.
+
+§ 17 Klima-Sachverständigenrat
+
+(1) Die Landesregierung beruft einen Rat von Sachverständigen, der die Landesregierung und den Landtag sektorübergreifend zu Klimaschutz und Klimawandel berät (Klima-Sachverständigenrat). Der Beratungsauftrag umfasst insbesondere
+
+1. die Mitwirkung im Rahmen des Monitorings,
+2. die Beratung der Landesregierung bei der Umsetzung der Klimaschutzziele und bei der Anpassungsstrategie,
+3. die Weiterentwicklung der Klimaschutz- und Anpassungsmaßnahmen.
+
+Auf Verlangen der Landesregierung oder aufgrund eines Beschlusses des Landtags erstattet der Klima-Sachverständigenrat Sondergutachten. Unabhängig davon ist der Klima-Sachverständigenrat in den Grenzen seines Auftrags und im Rahmen der verfügbaren Haushaltsmittel berechtigt, gegenüber der Landesregierung und dem Landtag Stellungnahmen und Berichte aufgrund eigenen Entschlusses abzugeben.
+
+(2) Der Klima-Sachverständigenrat ist bei der Erfüllung seiner Aufgaben nach diesem Gesetz unabhängig. Er besteht aus sechs Mitgliedern, die für fünf Jahre berufen werden; den Vorsitz und dessen Stellvertretung bestimmt der Klima-Sachverständigenrat jeweils durch geheime Wahl einer Person aus seiner Mitte. Seine Mitglieder weisen sich durch eine mehrjährige eigenständige wissenschaftliche Betätigung samt Publikation auf dem Gebiet der Klimaforschung oder verwandter Gebiete aus. Eine erneute Berufung in den Klima-Sachverständigenrat ist einmal zulässig.
+
+(3) Der Klima-Sachverständigenrat tritt in einem Kalenderjahr mindestens bei drei Gelegenheiten zusammen. Er gibt sich im Einvernehmen mit dem Umweltministerium eine Geschäftsordnung.
+
+(4) Zur Regelung der pauschalen Aufwandsentschädigung, des Sitzungsgelds, der Reisekostenerstattung, der Geschäftsstelle, der Verschwiegenheit, der freiwilligen und der unfreiwilligen Aufgabe der Mitgliedschaft einschließlich Nachbesetzung sowie der sonstigen organisatorischen Angelegenheiten erlässt das Umweltministerium eine Verwaltungsvorschrift.
+
+ABSCHNITT 4 – Energieverbrauchserfassung
+
+§ 18 Erfassung des Energieverbrauchs durch Gemeinden und Gemeindeverbände
+
+(1) Gemeinden und Gemeindeverbände sind nach Maßgabe von Absatz 2 und 3 verpflichtet, für einzelne Energieverbraucher, für die bei den Gemeinden und Gemeindeverbänden Energiekosten anfallen, jährlich bis zum 30. Juni des Folgejahres in einer vom Land bereitgestellten elektronischen Datenbank Angaben zu machen. Soweit Energiekosten bei Unternehmen anfallen, an denen die Gemeinde oder der Gemeindeverband beteiligt ist, gilt dies auch, wenn die Beteiligung einen Anteil von mehr als 50 Prozent umfasst; im Übrigen hat die Gemeinde oder der Gemeindeverband bei einer Beteiligung von mehr als 25 Prozent auf die Bereitstellung der Daten gegenüber dem Unternehmen hinzuwirken und zu den insoweit übermittelten Daten Angaben zu machen.
+
+(2) Bei der Erfassung des Energieverbrauchs werden für die folgenden Kategorien von Energieverbrauchern Angaben verlangt:
+
+1. für Nichtwohngebäude die beheizbare Netto-Raumfläche sowie der Endenergieverbrauch und die Energieträger getrennt nach Strom und Wärme,
+2. für Wohn-, Alten- und Pflegeheime oder ähnliche Einrichtungen, die zum dauerhaften Wohnen bestimmt sind, die beheizbare Netto-Raumfläche sowie der Endenergieverbrauch und die Energieträger getrennt nach Strom und Wärme,
+3. für Krankenhäuser und Kliniken die beheizbare Netto-Raumfläche, die Bettenzahl sowie der Endenergieverbrauch und die Energieträger getrennt nach Strom und Wärme,
+4. für Sportplätze die Größe der Sportplatzfläche sowie der Endenergieverbrauch an Strom,
+5. für Hallen- und Freibäder die beheizbare Netto-Raumfläche, die Flächen der Becken sowie der Endenergieverbrauch und die Energieträger getrennt nach Strom und Wärme,
+6. für Straßenbeleuchtungen die Länge der beleuchteten Straßenzüge sowie der Endenergieverbrauch an Strom,
+7. für Anlagen zur Wasserversorgung und Wasseraufbereitung die bereitgestellte Wassermenge in Kubikmetern, die Anzahl der versorgten Einwohnerinnen und Einwohner sowie der Endenergieverbrauch an Strom und
+8. für Kläranlagen Größenklasse und Einwohnerwert der Kläranlage, die Anzahl der versorgten Einwohnerinnen und Einwohner sowie der Endenergieverbrauch an Strom.
+
+(3) Fallen für die Gemeinden und Gemeindeverbände nur anteilige Energiekosten an, sind die dazugehörigen Energieverbräuche entsprechend des Flächenanteils bei der Erfassung bei dem jeweiligen Energieverbraucher einzutragen. Ausgenommen sind Energieverbraucher, deren Energiekosten pro Jahr in Summe weniger als 500 Euro betragen. Insgesamt müssen jeweils mindestens 80 Prozent des gesamten Endenergieverbrauchs pro Kategorie von Energieverbrauchern gemäß Absatz 2 erfasst werden.
+
+(4) Bei Gemeinden und Gemeindeverbänden, die im zu erfassenden Jahr bereits ein systematisches Energiemanagement betreiben, erstreckt sich die Pflicht zur Erfassung des Energieverbrauchs auf
+
+1. den Energiebericht gemäß § 2 Absatz 13 Nummer 4 des zu erfassenden Jahres und
+2. die Summe der Endenergieverbräuche getrennt für alle Kategorien von Energieverbrauchern gemäß Absatz 2, jeweils getrennt nach Energieträgern sowie jeweils die Summe der neben den Endenergieverbräuchen erforderlichen Angaben.
+
+ABSCHNITT 5 – Erneuerbare Energien
+
+§ 19 Sicherstellung der Flächenverfügbarkeit für erneuerbare Energien
+
+Zur Abdeckung der energiewirtschaftlichen Ausbaubedarfe und zur Erreichung der Klimaschutzziele für Baden-Württemberg soll die Flächenverfügbarkeit für Erneuerbare-Energien-Anlagen in Baden-Württemberg sichergestellt werden.
+
+§ 20 Festlegung der regionalen Teilflächenziele gemäß § 3 des Windenergieflächenbedarfsgesetzes
+
+(1) Zur Erreichung der Flächenbeitragswerte gemäß § 3 Absatz 1 des Windenergieflächenbedarfsgesetzes (WindBG) vom 20. Juli 2022 (BGBl I S. 1353) werden gemäß § 3 Absatz 2 Nummer 2 WindBG zur Umsetzung der Flächenbeitragswerte für Baden-Württemberg nach Anlage 1 Spalte 1 und 2 des Windenergieflächenbedarfsgesetzes sowohl für den zum 31. Dezember 2027 als auch für den zum 31. Dezember 2032 zu erreichenden Wert 1,8 Prozent der jeweiligen Regionsfläche als verbindliche regionale Teilflächenziele für die Träger der Regionalplanung festgelegt. Für den Verband Region Rhein-Neckar und für den Regionalverband Donau-Iller gelten die prozentualen Anteile nach Satz 1 jeweils für den baden-württembergischen Gebietsteil der Region. Für die Bestimmung der Größe der auszuweisenden Flächen ist die Größe der Regionsflächen und der Gebietsanteile der Regionen nach Anlage 2 maßgebend.
+
+(2) Die zur Erreichung der Teilflächenziele nach Absatz 1 notwendigen Teilpläne und sonstigen Änderungen eines Regionalplans sollen früher als in § 3 Absatz 1 WindBG vorgesehen bereits bis spätestens 30. September 2025 als Satzung festgestellt werden. Die Stichtage nach § 3 Absatz 1 Satz 2 WindBG bleiben hiervon unberührt.
+
+(3) Es können vertragliche Vereinbarungen geschlossen werden, mit denen sich eine Region gegenüber einer anderen Region verpflichtet, mehr Fläche als gemäß Absatz 1 erforderlich (Flächenüberhang) für die Windenergie auszuweisen. Sobald entsprechende Gebietsfestlegungen getroffen wurden, kann der Flächenüberhang der einen Region auf der Grundlage der vertraglichen Vereinbarung nach Satz 1 der anderen Region für die Zielerreichung nach Absatz 1 angerechnet werden. Vertragliche Vereinbarungen gemäß Satz 1 bedürfen der Schriftform und sind dem Ministerium für Landesentwicklung und Wohnen spätestens einen Monat nach Vertragsabschluss als Abschrift vorzulegen.
+
+§ 21 Landesvorgabe für Freiflächen-Photovoltaik
+
+In den Regionalplänen sollen Gebiete in einer Größenordnung von mindestens 0,2 Prozent der jeweiligen Regionsfläche nach Anlage 2 für die Nutzung von Photovoltaik auf Freiflächen festgelegt werden (Grundsatz der Raumordnung). Die zur Erreichung dieses Flächenziels notwendigen Teilpläne und sonstigen Änderungen eines Regionalplans sollen bis spätestens 30. September 2025 als Satzung festgestellt werden.
+
+§ 22 Besondere Bedeutung von Energieeinsparung, -effizienz und erneuerbaren Energien sowie des Verteilnetzausbaus
+
+Folgende Maßnahmen liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit:
+
+1. Maßnahmen zur Energieeinsparung und Energieeffizienz,
+2. die Errichtung und der Betrieb von Anlagen zur Erzeugung von Strom oder Wärme aus erneuerbaren Energien und der dazugehörigen Nebenanlagen sowie
+3. die Errichtung, der Betrieb und die Änderung der Stromverteilnetze und der für deren Betrieb notwendigen Anlagen, soweit dies für die Errichtung und den Betrieb der in Nummer 2 genannten Anlagen sowie für den Ausbau der Elektromobilität erforderlich ist.
+
+§ 23 Pflicht zur Installation von Photovoltaikanlagen
+
+(1) Es besteht die Pflicht zur Installation einer Photovoltaikanlage zur Stromerzeugung bei
+
+1. dem Neubau und bei grundlegender Dachsanierung eines Gebäudes auf der für eine Solarnutzung geeigneten Dachfläche sowie
+2. dem Neubau eines für eine Solarnutzung geeigneten offenen Parkplatzes mit mehr als 35 Stellplätzen für Kraftfahrzeuge über der für eine Solarnutzung geeigneten Stellplatzfläche.
+
+Dies gilt nicht, sofern die Erfüllung der jeweiligen Pflicht sonstigen öffentlich-rechtlichen Pflichten widerspricht. Besteht eine öffentlich-rechtliche Pflicht zur Dachbegrünung, so ist diese Pflicht bestmöglich mit der jeweiligen Pflicht zur Installation einer Photovoltaikanlage in Einklang zu bringen.
+
+(2) Einem Neubau gemäß Absatz 1 Satz 1 steht der Ausbau oder Anbau gleich, sofern hierdurch eine neue zur Solarnutzung geeignete Dach- oder Stellplatzfläche entsteht. Bestehende Dach- oder Stellplatzflächen werden nicht berücksichtigt.
+
+(3) Von einer Pflicht zur Installation einer Photovoltaikanlage kann durch die zuständige Behörde auf Antrag teilweise oder vollständig befreit werden, wenn die jeweilige Pflicht nur mit unverhältnismäßig hohem wirtschaftlichen Aufwand erfüllbar wäre.
+
+(4) Zur Erfüllung einer Pflicht zur Installation einer Photovoltaikanlage kann ersatzweise
+
+1. in den Fällen des Absatz 1 Satz 1 Nummer 1
+   a) eine Photovoltaikanlage zur Stromerzeugung auch auf anderen Außenflächen oder in unmittelbarer räumlicher Umgebung des Gebäudes oder
+   b) eine solarthermische Anlage zur Wärmeerzeugung auf der für eine Solarnutzung geeigneten Dach- oder Außenfläche oder in unmittelbarer räumlicher Umgebung des Gebäudes
+
+und
+
+2. in den Fällen des Absatz 1 Satz 1 Nummer 2 eine Photovoltaikanlage zur Stromerzeugung auf der Dachfläche oder auf anderen Außenflächen eines gleichzeitig neu errichteten Gebäudes in unmittelbarer räumlicher Umgebung des Parkplatzes
+
+installiert und der hierdurch in Anspruch genommene Flächenanteil auf die Pflichterfüllung angerechnet werden. Satz 1 Nummer 2 findet keine Anwendung, soweit Flächen in Anspruch genommen werden sollen, die für die Erfüllung der Pflicht gemäß Absatz 1 Satz 1 Nummer 1 benötigt werden.
+
+(5) Zur Erfüllung einer Pflicht gemäß Absatz 1 kann eine geeignete Fläche auch an einen Dritten verpachtet werden. Dies gilt auch in den Fällen des Absatzes 4.
+
+(6) Die Pflicht gemäß Absatz 1 Satz 1 Nummer 2 gilt nicht bei Parkplätzen, die unmittelbar entlang der Fahrbahnen öffentlicher Straßen angeordnet sind. Im Übrigen können die unteren Baurechtsbehörden, insbesondere aus städtebaulichen Gründen, Ausnahmen von dieser Pflicht erteilen.
+
+(7) Die Erfüllung einer Pflicht gemäß Absatz 1 ist der zuständigen unteren Baurechtsbehörde durch eine Bestätigung der Bundesnetzagentur über die Registrierung im Marktstammdatenregister gemäß § 8 Absatz 4 der Marktstammdatenregisterverordnung vom 10. April 2017 (BGBl. I S. 842), die zuletzt durch Artikel 10 des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237, 1307) geändert worden ist, in der jeweils geltenden Fassung spätestens zwölf Monate nach Fertigstellung des Bauvorhabens nachzuweisen; im Falle einer ersatzweisen Installation einer solarthermischen Anlage zur Wärmeerzeugung ist eine Bestätigung einer oder eines qualifizierten Sachverständigen erforderlich. Der Nachweis bedarf der Textform gemäß § 126b des Bürgerlichen Gesetzbuchs.
+
+(8) Das Umweltministerium wird ermächtigt, im Einvernehmen mit den betroffenen Ministerien durch Rechtsverordnung nähere Regelungen zu treffen
+
+1. zu der in Absatz 1 Satz 1 Nummer 1 enthaltenen Pflicht zur Installation von Photovoltaikanlagen auf Dachflächen bezüglich:
+   a) Mindestanforderungen an eine geeignete Dachfläche, insbesondere zu Größe, Form, Neigung,
+   b) Mindestanforderungen an eine grundlegende Dachsanierung,
+   c) Mindestanforderungen an geeignete Außenflächen gemäß Absatz 4 Satz 1 Nummer 1,
+   d) Ausrichtung und Verschattung,
+   e) des Umfangs, in welchem eine geeignete Dachfläche zur Pflichterfüllung mindestens genutzt werden muss, wobei sowohl auf die geeignete Dachfläche als auch auf die installierte Leistung einer Photovoltaikanlage im Verhältnis zur überbauten Grundstücksfläche Bezug genommen werden kann,
+   f) Kombinationsmöglichkeiten einer Dachbegrünung mit einer Photovoltaikanlage oder einer solarthermischen Anlage und
+   g) Voraussetzungen einer wirtschaftlichen Unzumutbarkeit der Pflichterfüllung,
+2. zu der in Absatz 1 Satz 1 Nummer 2 enthaltenen Pflicht zur Parkplatzüberdachung mit Photovoltaikanlagen bezüglich:
+   a) Mindestanforderungen an die Beschaffenheit einer geeigneten offenen Parkplatzfläche,
+   b) Mindestanforderungen der Photovoltaikanlage,
+   c) Ausrichtung und Verschattung,
+   d) des Umfangs, in welchem eine geeignete Parkplatzfläche zur Pflichterfüllung mindestens genutzt werden muss und
+   e) Voraussetzungen einer wirtschaftlichen Unzumutbarkeit der Pflichterfüllung,
+3. hinsichtlich weiterer für die Umsetzung der Pflicht zur Installation von Photovoltaikanlagen zwingend erforderlicher Angaben.
+
+§ 24 Photovoltaikpflicht auf Gebäuden im Eigentum des Landes; Photovoltaik auf Parkplätzen des Landes sowie Ladeinfrastruktur
+
+(1) Bei Gebäuden im Eigentum des Landes gilt die Pflicht gemäß § 23 Absatz 1 Satz 1 Nummer 1 ab dem 1. Januar 2030 auch dann, wenn keine grundlegende Dachsanierung durchgeführt wird, sofern nicht andere öffentlich-rechtliche Pflichten und Vorschriften entgegenstehen.
+
+(2) Auf Parkplätzen mit mehr als fünf Stellplätzen für Kraftfahrzeuge, die im Eigentum des Landes oder landeseigener Gesellschaften stehen und sich außerhalb des öffentlichen Straßenraums befinden, soll bis zum Ablauf des Jahres 2030 die Ladeinfrastruktur für elektrisch betriebene Fahrzeuge bedarfsgerecht unter Beachtung wirtschaftlicher Kriterien, auch durch Dritte, ausgebaut werden.
+
+(3) Auf Parkplätzen gemäß Absatz 2 soll unter Beachtung wirtschaftlicher Kriterien über den für eine Solarnutzung geeigneten Stellplatzflächen eine Photovoltaikanlage zur Stromerzeugung installiert werden. Die Photovoltaikanlage kann in begründeten Einzelfällen auch in unmittelbarer räumlicher Umgebung der Parkplätze installiert werden. § 23 Absatz 1 Satz 2 gilt entsprechend.
+
+(4) Der auf den Parkplätzen gemäß Absatz 2 für die Ladeinfrastruktur für elektrisch betriebene Fahrzeuge zum Einsatz kommende Strom soll möglichst aus Photovoltaikanlagen gemäß Absatz 3 erzeugt werden.
+
+(5) Das Finanzministerium wird bis zum 31. Dezember 2026 die Erreichung der in den vorstehenden Absätzen geregelten Ziele überprüfen und dem Landtag einen Zwischenbericht zuleiten. Ergibt die Prüfung, dass die Regelungen des Absatzes 1 oder 2 oder deren bisherige Umsetzung nicht ausreichen, wird das Finanzministerium dem Landtag geeignete Vorschläge zur Verbesserung des Gesetzes und seiner Umsetzung vorlegen.
+
+§ 25 Photovoltaik an Verkehrswegen in Baulast des Landes sowie an Verkehrswegen der Schieneninfrastruktur
+
+(1) Beim Neu- und Ausbau und bei der Ertüchtigung von Anlagen der Straßenbauverwaltung in Baulast des Landes, bei denen ein eigener Energiebedarf vorliegt, sind grundsätzlich Photovoltaikanlagen zur Stromerzeugung vorzusehen, solange diese die Belange der Sicherheit nicht gefährden.
+
+(2) Beim Neubau von Verkehrsinfrastrukturen im Schienenbereich sind Photovoltaikanlagen zur Stromerzeugung zu installieren oder geeignete Flächen zur Erfüllung dieser Pflicht an einen Dritten zur Verfügung zu stellen, soweit die Sicherheit und Leichtigkeit des Verkehrs auf diesen Verkehrsinfrastrukturen dadurch nicht beeinträchtigt wird. Die §§ 4 und 5 des Landeseisenbahngesetzes und die §§ 24, 24a des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396, ber. 1994 S. 2439), das zuletzt durch Artikel 10 des Gesetzes vom 10. September 2021 (BGBl. I S. 4147, 4151) geändert worden ist, in der jeweils geltenden Fassung, bleiben unberührt. Soweit Planentwürfe, die in Planfeststellungs- oder Plangenehmigungsverfahren eingebracht werden, nicht auf mindestens 30 Prozent der hiernach zulässigen und baulich geeigneten Flächen Photovoltaikanlagen vorsehen, haben die einschlägigen Träger öffentlicher Belange die Zustimmung zu versagen.
+
+(3) Die nichtbetriebsnotwendigen Flächen bestehender Verkehrswege in Baulast des Landes sollen systematisch auf ihre Geeignetheit zur Installation von Photovoltaikanlagen zur Stromerzeugung und deren Wirtschaftlichkeit geprüft werden. Bestehende Verkehrsinfrastrukturen im Schienenbereich sind auf ihre Eignung zur Installation von Photovoltaikanlagen zur Stromerzeugung zu prüfen.
+
+(4) Das Verkehrsministerium berichtet bis zum 31. Dezember 2024 dem Landtag über die Fortschritte bei der Umsetzung der Regelung und legt geeignete Verbesserungsvorschläge vor.
+
+§ 26 Beteiligung des Regierungspräsidiums zur Stärkung des Klimabelangs
+
+(1) Die unteren Baurechtsbehörden und die sonstigen unteren Verwaltungsbehörden sollen bei Zulassungsverfahren für Vorhaben zur Errichtung von Anlagen zur Nutzung erneuerbarer Energien mit erheblicher Bedeutung für die Allgemeinheit mit Beginn der Beteiligung von Behörden, deren Aufgabenbereich berührt wird, auch das Regierungspräsidium beteiligen, um ihm Gelegenheit zur Einbringung der Belange des Klimaschutzes zu geben. Dies gilt insbesondere bei der Errichtung einer
+
+1. Windenergieanlage mit einer Gesamthöhe von mehr als 50 Metern,
+2. Wasserkraftanlage ab einer installierten elektrischen Gesamtleistung von 50 Kilowatt,
+3. Biogasanlage, die nach Immissionsschutzrecht genehmigungsbedürftig ist,
+4. gebäudeunabhängigen Anlage zur photovoltaischen Solarnutzung ab einer installierten elektrischen Gesamtleistung von 500 Kilowatt und
+5. gebäudeunabhängigen Anlage zur thermischen Solarnutzung mit einer Kollektorfläche von mindestens 1 000 Quadratmetern.
+
+(2) Das Regierungspräsidium soll bei Bauleitplanverfahren zur Regelung von Standorten für Anlagen zur Nutzung erneuerbarer Energien gemäß Absatz 1 als Träger öffentlicher Belange für den Klimaschutz gemäß § 4 des Baugesetzbuchs beteiligt werden.
+
+(3) In den folgenden Verfahren ist dem Regierungspräsidium Gelegenheit zu geben, die Belange des Klimaschutzes und der Klimawandelanpassung durch die Abgabe von Stellungnahmen einzubringen:
+
+1. bei der Vorbereitung und Durchführung städtebaulicher Sanierungsmaßnahmen der Gemeinden in den Großen Kreisstädten und Stadtkreisen nach dem Baugesetzbuch,
+2. bei der Vorbereitung und Durchführung von Stadtumbaumaßnahmen der Gemeinden in den Großen Kreisstädten und Stadtkreisen nach dem Baugesetzbuch,
+3. bei der Aufstellung, Fortschreibung und sonstigen Änderung eines Regionalplans nach dem Landesplanungsgesetz und bei der Abstimmung von Regionalplänen außerhalb des Geltungsbereichs des Landesplanungsgesetzes nach Maßgabe des Landesplanungsgesetzes,
+4. bei der Aufstellung und Fortschreibung eines Landschaftsrahmenplans nach dem Naturschutzgesetz,
+5. bei der Erklärung eines Gebiets zum Landschaftsschutzgebiet nach dem Naturschutzgesetz sowie bei der Änderung und Aufhebung der Erklärung der Unterschutzstellung,
+6. bei der Erklärung von Teilen von Natur und Landschaft zum geschützten Landschaftsbestandteil nach dem Naturschutzgesetz durch die Gemeinden in den Großen Kreisstädten und Stadtkreisen sowie bei der Änderung und Aufhebung der Erklärung der Unterschutzstellung,
+7. bei der forstlichen Rahmenplanung nach dem Landeswaldgesetz,
+8. bei der Aufstellung von Satzungen der Gemeinden in den Großen Kreisstädten und Stadtkreisen, mit denen Aufforstungsgebiete oder Nichtaufforstungsgebiete nach dem Landwirtschafts- und Landeskulturgesetz festgesetzt werden.
+
+ABSCHNITT 6 – Wärmeplanung
+
+§ 27 Kommunale Wärmeplanung
+
+(1) Die kommunale Wärmeplanung ist für Gemeinden ein wichtiger Prozess, um die Klimaschutzziele im Wärmebereich zu erreichen. Durch die kommunale Wärmeplanung entwickeln die Gemeinden eine Strategie zur Verwirklichung einer klimaneutralen Wärmeversorgung und tragen damit zur Erreichung des Ziels eines klimaneutralen Gebäudebestands bis zum Jahr 2040 bei.
+
+(1a) Ab dem 1. Januar 2024 gelten die Absätze 1, 2 bis 5, § 31 Absatz 3 und § 33 nur noch für bestehende und in der Erstellung befindliche Wärmepläne gemäß § 5 des Wärmeplanungsgesetzes (WPG) vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394). Kommunale Wärmepläne nach Absatz 3 Satz 2 können noch erstellt werden, wenn am 6. August 2025 ein Beschluss über die Durchführung der Wärmeplanung vorliegt. Für die Fortschreibung der Wärmepläne nach Sätzen 1 und 2 gilt § 25 Absatz 3 WPG.
+
+(2) Kommunale Wärmepläne stellen für das gesamte Gebiet der jeweiligen Gemeinde räumlich aufgelöst
+
+1. die systematische und qualifizierte Erhebung des aktuellen Wärmebedarfs oder -verbrauchs und der daraus resultierenden Treibhausgasemissionen, einschließlich Informationen zu den vorhandenen Gebäudetypen und den Baualtersklassen, sowie die aktuelle Versorgungsstruktur (Bestandsanalyse),
+2. die in der Gemeinde vorhandenen Potenziale zur Senkung des Wärmebedarfs durch Steigerung der Gebäudeenergieeffizienz und zur klimaneutralen Wärmeversorgung aus erneuerbaren Energien sowie Abwärme und Kraft-Wärme-Kopplung (Potenzialanalyse) und
+3. ein klimaneutrales Szenario für das Jahr 2040 mit Zwischenzielen für das Jahr 2030 zur zukünftigen Entwicklung des Wärmebedarfs und einer flächendeckenden Darstellung der zur klimaneutralen Bedarfsdeckung geplanten Versorgungsstruktur
+
+dar. Hierauf aufbauend werden im kommunalen Wärmeplan mögliche Handlungsstrategien und Maßnahmen zur Steigerung der Energieeffizienz und damit einhergehend zur Reduzierung und klimaneutralen Deckung des Wärmeenergiebedarfs entwickelt. Es sind mindestens fünf Maßnahmen zu benennen, mit deren Umsetzung innerhalb der auf die Veröffentlichung folgenden fünf Jahre begonnen werden soll. Ein kommunaler Wärmeplan ist Grundlage für eine Verknüpfung der energetischen Gebäudesanierung mit einer klimaneutralen Wärmeversorgung im Rahmen der strategischen Planung der Wärmeversorgung einer Gemeinde und bildet die Grundlage für die Umsetzung.
+
+(3) Die Stadtkreise und Großen Kreisstädte sind verpflichtet, bis zum 31. Dezember 2023 einen kommunalen Wärmeplan als Bestandteil der kommunalen Wärmeplanung zu erstellen und diesen spätestens alle sieben Jahre unter Berücksichtigung der weiteren Entwicklungen fortzuschreiben. Auch die übrigen Gemeinden können einen kommunalen Wärmeplan erstellen. Die Öffentlichkeit, insbesondere Interessengruppen sowie Vertreterinnen und Vertreter der Wirtschaft, sind möglichst frühzeitig und fortlaufend bei der Erstellung des kommunalen Wärmeplans zu beteiligen.
+
+(4) Die Stadtkreise und Großen Kreisstädte legen den kommunalen Wärmeplan innerhalb von drei Monaten nach Erstellung, spätestens am 31. Dezember 2023, dem zuständigen Regierungspräsidium vor, fortgeschriebene kommunale Wärmepläne innerhalb von drei Monaten nach Erstellung. Zudem erfassen die Stadtkreise und Großen Kreisstädte innerhalb von drei Monaten nach Fertigstellung folgende sich auf das gesamte Gemeindegebiet beziehende Informationen in einer vom Land bereitgestellten elektronischen Datenbank:
+
+1. den aktuellen Jahresendenergiebedarf für die Wärmeversorgung, aufgeteilt nach Energieträgern und Sektoren,
+2. den für die Jahre 2030 und 2040 abgeschätzten Jahresendenergiebedarf für die Wärmeversorgung, aufgeteilt nach Energieträgern und Sektoren, und
+3. das nutzbare Endenergiepotenzial zur klimaneutralen Wärmeversorgung aus erneuerbaren Energien sowie Abwärme und Kraft-Wärme-Kopplung.
+
+(5) Stadtkreise und Große Kreisstädte müssen die kommunalen Wärmepläne im Internet veröffentlichen. Die kommunalen Wärmepläne dürfen keine personenbezogenen Daten gemäß Artikel 4 Nummer 1 der Datenschutz-Grundverordnung enthalten, es sei denn, die betroffenen Personen haben in die Veröffentlichung gemäß Artikel 7 der Datenschutz-Grundverordnung eingewilligt. Betriebs- und Geschäftsgeheimnisse müssen gewahrt bleiben, sofern deren Veröffentlichung nicht zugestimmt wurde.
+
+§ 27a Umsetzung des Wärmeplanungsgesetzes, Zieljahr
+
+(1) Dieser Paragraf, die §§ 27b bis 27g und § 33 Absatz 7 gelten für die Pflicht zur Wärmeplanung nach § 4 Absatz 1 WPG und zur Umsetzung weiterer Bestimmungen des Wärmeplanungsgesetzes in der jeweils geltenden Fassung.
+
+(2) Als Zieljahr im Sinne von § 1 Satz 2 WPG wird das Jahr 2040 bestimmt.
+
+(3) § 18 Absatz 3 WPG ist mit der Maßgabe anzuwenden, dass der Betrachtungszeitpunkt des Jahres 2040 entfällt. Anlage 2 WPG ist mit der Maßgabe anzuwenden, dass in Abschnitt III die Angabe für das Jahr 2045 und in Abschnitt IV die Darstellung für das Jahr 2040 entfällt.
+
+(4) Jedes Wärmenetz muss spätestens bis zum Ablauf des 31. Dezember 2040 vollständig mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination hieraus gespeist werden.
+
+§ 27b Planungsverantwortliche Stelle
+
+(1) Planungsverantwortliche Stellen für die Pflicht zur Erstellung eines Wärmeplans gemäß § 4 Absatz 1 WPG und für die Erfüllung der Aufgaben nach Teil 2 des Wärmeplanungsgesetzes sind die Gemeinden. Sie nehmen diese Pflicht und die Aufgaben in eigener Verantwortung wahr.
+
+(2) Zuständige Stellen gemäß § 26 Absatz 1 WPG für die Entscheidung über die Ausweisung eines Gebiets zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 71 Absatz 8 Satz 3 oder § 71k Absatz 1 Nummer 1 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 1 des Gesetzes vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist, in der jeweils geltenden Fassung, sind die planungsverantwortlichen Stellen. Die Entscheidung über die Ausweisung erfolgt durch Satzung.
+
+§ 27c Anzeige der Wärmepläne, Datenübermittlung
+
+(1) Die planungsverantwortlichen Stellen müssen die erstellten Wärmepläne innerhalb der Fristen des § 4 Absatz 2 Satz 1 WPG dem gemäß § 31 Absatz 4 zuständigen Regierungspräsidium anzeigen.
+
+(2) Die gemäß § 23 WPG erstellten Wärmepläne sowie die gemäß Anlage 2 WPG erstellten Angaben, Ausweisungen, textlichen, grafischen und kartografischen Darstellungen und die den erstellten Wärmeplänen zugrunde liegenden Daten sind innerhalb eines Monats nach Veröffentlichung des Wärmeplans im Internet gemäß § 13 Absatz 5 WPG von der jeweiligen planungsverantwortlichen Stelle zusammen mit der Internetadresse der Veröffentlichung in digitaler Form an die Landesanstalt für Umwelt Baden-Württemberg zu übermitteln.
+
+(3) Für die Evaluation gemäß § 35 WPG haben die planungsverantwortlichen Stellen Entscheidungen der Gemeinde gemäß § 26 Absatz 1 WPG innerhalb von drei Monaten nach Satzungsbeschluss an die Landesanstalt für Umwelt Baden-Württemberg zu übermitteln.
+
+(4) Das Umweltministerium wird ermächtigt, digitale Vorlagen, Werkzeuge und eine Datenplattform zu entwickeln, die von den planungsverantwortlichen Stellen verpflichtend zur Übermittlung der in Absätze 2 und 3 sowie in § 31 Absatz 6 genannten Pläne, Informationen, Daten sowie textlichen, grafischen und kartografischen Darstellungen zu verwenden sind. Diese digitalen Vorlagen, Werkzeuge und die Datenplattform werden über die Landesanstalt für Umwelt Baden-Württemberg bekannt gegeben und bereitgestellt. Bis diese Vorlagen zur Verfügung stehen, sind die Daten mit einer aussagekräftigen Erklärung der jeweiligen Attribute oder Spaltenbezeichnungen zu übermitteln.
+
+(5) Die Landesanstalt für Umwelt Baden-Württemberg kann die in Absätze 2 und 3 sowie in § 31 Absatz 6 genannten Pläne, Informationen, Daten sowie textlichen, grafischen und kartografischen Darstellungen benutzen, um gemäß § 31 Absatz 7 den Mitteilungspflichten des Landes gegenüber dem zuständigen Bundesministerium nachzukommen und um die Überprüfung gemäß § 28 Absatz 5 Satz 2 WPG durchzuführen. Sie können auch für den Aufbau, die Erweiterung und die Aktualisierung eines öffentlich zugänglichen landesweiten Wärmekatasters sowie von den gemäß Absatz 1 zur Entgegennahme der Anzeige zuständigen Regierungspräsidien zur Erfüllung ihrer Aufgaben verwendet werden.
+
+§ 27d Vereinfachtes Verfahren
+
+(1) Gemeinden, in denen zum 1. Januar 2024 weniger als 10 000 Einwohner gemeldet waren, können gemäß § 4 Absatz 3 Satz 1 WPG ein vereinfachtes Verfahren durchführen. Für das vereinfachte Verfahren gelten die Absätze 2 bis 4.
+
+(2) Der Kreis der gemäß § 7 WPG zu Beteiligenden kann reduziert werden, wobei den Beteiligten gemäß § 7 Absatz 2 WPG mindestens Gelegenheit zur Stellungnahme gegeben werden soll.
+
+(3) In Ergänzung zur Eignungsprüfung gemäß § 14 WPG kann für Teilgebiete ein Wasserstoffnetz ausgeschlossen werden, wenn für das Teilgebiet ein Plan gemäß § 9 Absatz 2 WPG vorliegt oder dieser sich in Erstellung befindet und die Versorgung über ein Wärmenetz wahrscheinlich erscheint.
+
+(4) Für die Anwendung der Anlage 2 WPG gelten folgende Maßgaben:
+
+1. unter Abschnitt I Nummer 1 Unternummer 1 kann im Rahmen der Bestandsanalyse auf die Darstellung nach Endenergiesektoren verzichtet werden;
+2. auf die Darstellung des überwiegenden Gebäudetyps in Form einer baublockbezogenen Darstellung gemäß Abschnitt I Nummer 2 Unternummer 5 kann im Rahmen der Bestandsanalyse verzichtet werden;
+3. unter Abschnitt II Satz 4 kann im Rahmen der Potenzialanalyse auf die Darstellung der abgeschätzten Potenziale zur Energieeinsparung durch Wärmebedarfsreduktion in industriellen und gewerblichen Prozessen verzichtet werden;
+4. unter Abschnitt III Satz 2 sind im Rahmen des Zielszenarios nur die Indikatoren für die Jahre 2030 und 2040 anzugeben;
+5. unter Abschnitt III Satz 3 Nummer 1 kann im Rahmen des Zielszenarios auf die Differenzierung nach Endenergiesektoren verzichtet werden;
+6. unter Abschnitt IV Satz 1 sind im Rahmen der Einteilung des beplanten Gebiets in voraussichtliche Wärmeversorgungsgebiete nur die Darstellungen für das Jahr 2030 vorzunehmen;
+7. unter Abschnitt V Satz 2 kann im Rahmen der Darstellung der Wärmeversorgungsarten für das Zieljahr auf das Ausdrücken der Eignung der einzelnen beplanten Teilgebiete für eine Versorgung als Wahrscheinlichkeit verzichtet werden.
+
+§ 27e Gemeinsame Wärmeplanung
+
+Benachbarte Gemeinden können gemäß § 4 Absatz 3 Satz 2 WPG eine gemeinsame Wärmeplanung (Konvoiplanung) durchführen. Die Ergebnisse der Wärmeplanung sind dabei für jede Gemeinde gesondert darzustellen.
+
+§ 27f Anteil erneuerbarer Energien in Wärmenetzen
+
+Die jährliche Nettowärmeerzeugung muss für jedes Wärmenetz abweichend von § 29 Absatz 1 Nummer 2 WPG spätestens ab dem 1. Januar 2041 vollständig aus erneuerbaren Energien, unvermeidbarer Abwärme oder einer Kombination hieraus gespeist werden. Eine Verlängerung der Frist nach § 29 Absatz 1 Nummer 2 WPG in Verbindung mit § 29 Absatz 2 Satz 1 WPG ist nicht möglich. Anlage 3 ist mit der Maßgabe anzuwenden, dass anstelle des Jahres 2045 das Jahr 2040 zugrunde gelegt wird.
+
+§ 27g Verordnungsermächtigung
+
+Das Umweltministerium wird ermächtigt, durch Rechtsverordnung das Verfahren zur Bewertung gemäß § 21 Nummer 5 WPG zu regeln.
+
+ABSCHNITT 7 – Nachhaltige Mobilität
+
+§ 28 Klimamobilitätspläne
+
+(1) Die Gemeinden und Gemeindeverbände können im Rahmen ihrer Zuständigkeiten Klimamobilitätspläne aufstellen, welche Maßnahmen der nachhaltigen klimafreundlichen Mobilität zur dauerhaften Verminderung von Treibhausgasemissionen unter Berücksichtigung der Mobilitätsbedürfnisse der Bevölkerung und der Wirtschaft festlegen. Die Aufstellung der Klimamobilitätspläne kann aufgabenträgerübergreifend erfolgen, auch unter Beteiligung weiterer öffentlicher Aufgabenträger. Sollen die Klimamobilitätspläne Maßnahmen enthalten, für deren Umsetzung weitere öffentliche Aufgabenträger zuständig sind, sind die Klimamobilitätspläne insoweit im Einvernehmen mit diesen aufzustellen.
+
+(2) Die Regierungspräsidien sind möglichst frühzeitig bei der Aufstellung der Klimamobilitätspläne zu beteiligen. Sie unterstützen die Gemeinden und Gemeindeverbände bei der Aufstellung der Klimamobilitätspläne im Rahmen ihrer Zuständigkeit sowie ihrer finanziellen, personellen und organisatorischen Möglichkeiten.
+
+(3) Die Klimamobilitätspläne sind den Zielen der Raumordnung anzupassen; die Grundsätze und sonstigen Erfordernisse der Raumordnung sind zu berücksichtigen.
+
+(4) Die Öffentlichkeit, insbesondere Interessengruppen sowie Vertreterinnen und Vertreter der Wirtschaft, ist möglichst frühzeitig und fortlaufend bei der Aufstellung der Klimamobilitätspläne zu beteiligen.
+
+(5) Die öffentlichen Aufgabenträger setzen die in den Klimamobilitätsplänen vorgesehenen Maßnahmen in eigener Zuständigkeit um.
+
+§ 29 Koordinatorinnen und Koordinatoren für Mobilität und Klimaschutz
+
+(1) Jeder Landkreis bestellt eine Koordinatorin oder einen Koordinator für Mobilität und Klimaschutz zur Unterstützung der kreisangehörigen Gemeinden beim Ausbau der nachhaltigen Mobilität. Aufgaben der Koordinatorinnen und Koordinatoren für Mobilität und Klimaschutz sind:
+
+1. Beratung zur Umsetzung von Maßnahmen der nachhaltigen Mobilität in den kreisangehörigen Gemeinden, insbesondere zu Fragen des Straßenverkehrsrechts, der Parkraumbewirtschaftung und des Parkraummanagements, der Finanzierung zusätzlicher Leistungen für den Öffentlichen Personennahverkehr und der Ladeinfrastruktur im öffentlichen und privaten Bereich,
+2. Beratung und Unterstützung bei der Beantragung von Fördermitteln für Maßnahmen gemäß Nummer 1,
+3. Beratung der kreisangehörigen Gemeinden zu ihren Beiträgen im Zuge der Aufstellung und Umsetzung eines kreisweiten oder durch mehrere Gebietskörperschaften erstellten Klimamobilitätsplans,
+4. Unterstützung bei der Erstellung von Aktionsplänen für Mobilität, Klima- und Lärmschutz sowie
+5. Unterstützung der kreisangehörigen Gemeinden bei der Erstellung von Lärmaktionsplänen und der Einbeziehung von Aspekten nachhaltiger Mobilität in andere gemeindliche Planungsverfahren.
+
+(2) Die Koordinatorinnen und Koordinatoren für Mobilität und Klimaschutz tauschen sich fortlaufend mit dem Verkehrsministerium zu ihrer Arbeit aus. Sie arbeiten proaktiv mit dem Verkehrsministerium in ihrem Aufgabenbereich zusammen.
+
+ABSCHNITT 8 – Kommunale Klimawandelanpassung
+
+§ 29a Ziel von Klimaanpassungskonzepten
+
+Ziel von kommunalen Klimaanpassungskonzepten ist es, die Resilienz gegenüber den bereits eingetretenen und den zu erwartenden künftigen Auswirkungen des Klimawandels zu erhöhen, indem für die jeweiligen Gebiete ein systematisches Vorgehen entwickelt wird, das in einen auf die örtlichen Gegebenheiten bezogenen Maßnahmenkatalog zur Umsetzung des Klimaanpassungskonzepts mündet.
+
+§ 29b Erstellung von kommunalen Klimaanpassungskonzepten
+
+(1) Klimaanpassungskonzepte im Sinne des § 29d sind zu erstellen
+
+1. durch Stadtkreise und Große Kreisstädte für das Gebiet des Stadtkreises oder der Großen Kreisstadt,
+2. durch Landkreise für das Gebiet des Landkreises und
+3. durch Landkreise für die kreisangehörigen Gemeinden, die nicht von Nummer 1 erfasst sind.
+
+Die Erstellung der Klimaanpassungskonzepte nach Satz 1 Nummer 3 erfolgt unter Mitwirkung der betroffenen Gemeinden. Dabei vertiefen die Landkreise auf der Grundlage des Klimaanpassungskonzeptes für das Gebiet des Landkreises gemäß Satz 1 Nummer 2 im Zusammenwirken mit den betroffenen Gemeinden die Untersuchungen gemäß § 29d entlang der örtlichen Gegebenheiten und entwickeln einen hierauf bezogenen Maßnahmenkatalog gemäß § 29d Absatz 1 Satz 1 Nummer 3.
+
+(2) Bei der Erstellung der Klimaanpassungskonzepte gemäß Absatz 1 Satz 1 Nummer 3 sollen nach Möglichkeit Synergieeffekte durch gleichzeitiges und gemeinsames Vorgehen mit mehreren kreisangehörigen Gemeinden genutzt werden.
+
+(3) Gemeinden können abweichend von Absatz 1 Satz 1 Nummer 3 Klimaanpassungskonzepte gemäß § 29d eigenständig erstellen. In diesem Falle entfällt die Verpflichtung der Landkreise nach Absatz 1 Satz 1 Nummer 3. Entsprechendes gilt für die Überarbeitung eines bestehenden Konzeptes. Die Entscheidung ist dem Landkreis spätestens bis zum 30. Juni 2030 mitzuteilen.
+
+§ 29c Beschlussfassung
+
+(1) Die Klimaanpassungskonzepte werden im Falle des § 29b Absatz 1 Satz 1 Nummern 1 und 3 sowie Absatz 3 durch den jeweiligen Gemeinderat und im Falle des § 29b Absatz 1 Nummer 2 durch den Kreistag beschlossen.
+
+(2) Die Klimaanpassungskonzepte sollen
+
+1. in den Fällen des § 29b Absatz 1 Satz 1 Nummer 1 und 2 möglichst bis zum Ablauf des 30. Juni 2031 und
+2. in den Fällen des § 29b Absatz 1 Satz 1 Nummer 3 und Absatz 3 möglichst bis zum Ablauf des 30. Juni 2034
+
+beschlossen werden.
+
+(3) Die Klimaanpassungskonzepte sind im Anschluss an die Beschlussfassung im Internet zu veröffentlichen. Die Veröffentlichung ist der Landesanstalt für Umwelt Baden-Württemberg anschließend anzuzeigen.
+
+§ 29d Inhalte von Klimaanpassungskonzepten
+
+(1) Die Klimaanpassungskonzepte beinhalten
+
+1. eine Klimawirkungsanalyse, die die Ermittlung der gegenwärtigen und zukünftigen klimatischen Zustände und Risiken im Zusammenhang mit den Auswirkungen des Klimawandels auf Basis aktuell landesweit verfügbarer Datengrundlagen umfasst,
+2. eine Betroffenheitsanalyse, die Analysen zur Bewertung und Feststellung von potenziellen Risiken und Handlungserfordernissen sowie die Identifikation von Anpassungszielen und Prioritäten umfasst, und
+3. einen auf die örtlichen Gegebenheiten bezogenen Maßnahmenkatalog.
+
+Der Maßnahmenkatalog nach Satz 1 Nummer 3 sollte möglichst auch Maßnahmen enthalten, mit denen Vorsorge insbesondere für extreme Hitzelagen vor allem in urbanen Räumen, für extreme Trockenheit und Wassermangel und für Extremwetterereignisse wie Starkregen getroffen werden kann, sowie solche Maßnahmen, die die Eigenvorsorge der Bürgerinnen und Bürger erhöhen. Maßnahmen zur Vorsorge bei klimabedingten negativen Veränderungen von Lebensräumen und Arten können ebenfalls aufgenommen werden.
+
+(2) Umfang und Detaillierungsgrad richten sich nach den Möglichkeiten und Betroffenheiten der zuständigen Gemeinden und Landkreise. Dabei sind die Unterstützungsleistungen durch die Landkreise, durch die Landesanstalt für Umwelt Baden-Württemberg und durch verfügbare Dienstleister zu berücksichtigen.
+
+(3) Bei der Aufstellung von Klimaanpassungskonzepten sind die Strategie des Landes gemäß § 15, Klimawirkungs- und Betroffenheitsanalysen sowie Klimaanpassungskonzepte von Regionen oder Gebietskörperschaften, an welche die Gemeinde oder der Landkreis angrenzt oder in denen sich die Gemeinde oder der Landkreis befindet, zu berücksichtigen.
+
+(4) Bereits bestehende relevante Planungen und sonstige Grundlagen, wie Hitzeaktionspläne, Starkregen- und Hochwassergefahrenkarten, Freiraumkonzepte sowie Landschafts- und Grünordnungspläne, sind zu berücksichtigen. Es soll identifiziert werden, welche Lücken bezüglich der Klimaanpassung in der bisherigen Planung für das jeweilige Gebiet bestehen; in den Klimaanpassungskonzepten sollen Maßnahmen zur Schließung dieser Lücken festgelegt werden. Bestehende Teilkonzepte, die Aufgabenbereiche der Klimaanpassung behandeln, können als Bestandteil eines Klimaanpassungskonzepts geführt werden, soweit sie nach Ermessen der oder des für die Konzepterstellung zuständigen Gemeinde oder Landkreises hinreichend aktuell sind.
+
+(5) Die Landesregierung wird ermächtigt, durch Rechtsverordnung nähere Regelungen zu Mindestanforderungen an die in Absatz 1 Sätze 1 und 2 genannten Inhalte der Klimaanpassungskonzepte für die Verpflichteten nach § 29b Absatz 1 Satz 1 und Absatz 3 zu treffen.
+
+§ 29e Bestehende Klimaanpassungskonzepte
+
+(1) Bereits bestehende kommunale Klimaanpassungskonzepte, die vor dem 1. Januar 2015 im Kreistag oder Gemeinderat beschlossen oder zuletzt aktualisiert wurden, sind gemäß den §§ 29b bis 29d fortzuschreiben.
+
+(2) Im Übrigen können bestehende oder in Entstehung befindliche Klimaanpassungskonzepte von Stadtkreisen, Großen Kreisstädten und sonstigen Gemeinden fortbestehen, soweit sie nach deren Ermessen inhaltlich hinreichend aktuell und fachlich ausreichend sind. Die Entscheidung einer sonstigen Gemeinde ist dem Landkreis spätestens bis zum 30. Juni 2027 mitzuteilen. Bestehende Klimaanpassungskonzepte der Landkreise müssen innerhalb der Frist gemäß § 29c Absatz 2 Nummer 1 überarbeitet werden, soweit sie nicht den Anforderungen gemäß § 29d Absatz 1 Sätze 1 und 2 in Verbindung mit der Rechtsverordnung gemäß § 29d Absatz 5 entsprechen. Für die Überarbeitungen gelten die §§ 29b bis 29d entsprechend.
+
+§ 29f Aufgaben der Landkreise
+
+(1) Die Landkreise haben folgende Aufgaben:
+
+1. Erstellung der Klimaanpassungskonzepte gemäß § 29b Absatz 1 Satz 1 Nummer 2,
+2. Erstellung der Klimaanpassungskonzepte gemäß § 29b Absatz 1 Satz 1 Nummer 3 unter Mitwirkung der kreisangehörigen Gemeinden und
+3. Unterstützung der kreisangehörigen Gemeinden bei der Anpassung an den Klimawandel.
+
+(2) Die Landkreise tauschen sich mit den kreisangehörigen Gemeinden aus und nutzen die fachlichen Grundlagen, die vom Kompetenzzentrum Klimawandel der Landesanstalt für Umwelt Baden-Württemberg gemäß § 30 Absatz 3 zur Verfügung gestellt werden.
+
+ABSCHNITT 9 – Ergänzende Bestimmungen
+
+§ 30 Klima-Verwaltungsorganisation
+
+(1) Das Umweltministerium koordiniert die ressortübergreifenden Aufgaben nach diesem Gesetz. Es ist zuständig für die Pflege des Klima-Maßnahmen-Registers, die Erstellung der Strategie zur Anpassung an die unvermeidbaren Folgen des Klimawandels und des Konzepts für die netto-treibhausgasneutrale Landesverwaltung sowie die Koordinierung des Gesamtberichts zur Umsetzung dieses Konzepts und die Monitoringberichte, jeweils in Zusammenarbeit mit den für die einzelnen Klimaschutz- und Anpassungsmaßnahmen zuständigen Ministerien; es wirkt mit dem Klima-Sachverständigenrat bei dessen Aufgabenerfüllung zusammen.
+
+(2) Das Umweltministerium ist zuständig für die Berichterstattung gegenüber dem zuständigen Bundesministerium gemäß § 10 Absatz 6 und § 11 KAnG. Die Landesanstalt für Umwelt Baden-Württemberg unterstützt hierbei.
+
+(3) Bei der Landesanstalt für Umwelt Baden-Württemberg wird ein Kompetenzzentrum Klimawandel unterhalten. Das Kompetenzzentrum Klimawandel hat insbesondere die Aufgabe, bei der Anpassung an die unvermeidbaren Folgen des Klimawandels auf regionaler und auf kommunaler Ebene durch Information, Qualifizierung und Vernetzung sowie durch die Erarbeitung und Bereitstellung von Datengrundlagen zu unterstützen.
+
+§ 31 Aufgaben und Befugnisse
+
+(1) Die unteren Baurechtsbehörden sind sachlich zuständig für die Überwachung und Einhaltung der Pflichten gemäß § 23. Sie ergreifen die hierfür erforderlichen Maßnahmen. Soll ein offener Parkplatz dem öffentlichen Verkehr gewidmet werden, sind abweichend von Satz 1 die gemäß § 50 Absatz 3 des Straßengesetzes jeweils zuständigen Straßenbaubehörden für die Überwachung und Einhaltung der Pflicht gemäß § 23 Absatz 1 Satz 1 Nummer 2 sachlich zuständig. Bei Bauvorhaben auf dem Betriebsgelände einer Anlage gemäß § 7 des Atomgesetzes in der Fassung vom 15. Juli 1985 (BGBl. I S. 1566), das zuletzt durch Gesetz vom 4. Dezember 2022 (BGBl. I S. 2153) geändert worden ist, ist abweichend von Satz 1 die oberste Baurechtsbehörde sachlich zuständig, sofern sie nicht im Einzelfall die Zuständigkeit einer nachgeordneten Baurechtsbehörde überträgt.
+
+(2) Die Rechtsaufsichtsbehörden prüfen die Einhaltung der Vorgaben gemäß § 18 durch die Gemeinden und Gemeindeverbände.
+
+(3) Das zuständige Regierungspräsidium prüft die Einhaltung der Vorgaben gemäß § 27 Absatz 3 und 4 durch die Stadtkreise und Großen Kreisstädte und kann bei Verstößen Nachbesserung verlangen.
+
+(4) Das zuständige Regierungspräsidium prüft die Einhaltung der Vorgaben des Wärmeplanungsgesetzes durch die planungsverantwortlichen Stellen und kann bei Verstößen Nachbesserung verlangen.
+
+(5) Zuständige Behörden für die Überwachung der Pflichten nach Teil 3 des Wärmeplanungsgesetzes und zuständige Stellen für die Bewertung gemäß § 21 Nummer 5 WPG sind die Regierungspräsidien.
+
+(6) Zuständige Stelle für die Entgegennahme und die Überprüfung der übermittelten Bedarfe an grünem Methan gemäß § 28 Absatz 5 WPG ist die Landesanstalt für Umwelt Baden-Württemberg.
+
+(7) Für die Mitteilung der Informationen an das zuständige Bundesministerium gemäß § 34 Satz 4 WPG ist die Landesanstalt für Umwelt Baden-Württemberg zuständig.
+
+(8) Zuständige Behörden gemäß § 17 Absatz 2 der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme vom 20. Juni 1980 (BGBl. I S. 742), die zuletzt durch Artikel 1 der Verordnung vom 13. Juli 2022 (BGBl. I S. 1134) geändert worden ist, in der jeweils geltenden Fassung, sind die Regierungspräsidien.
+
+§ 32 Evaluation der Photovoltaikpflichten; Monitoring der Flächenvorgaben
+
+(1) Das Umweltministerium evaluiert im Einvernehmen mit den betroffenen Ministerien bis zum 31. Dezember 2025 den Umsetzungsstand der Bestimmung des § 23, insbesondere in welchem Umfang der Ausbau der Photovoltaik hierdurch befördert wird. Es wird ermächtigt, im Einvernehmen mit den betroffenen Ministerien durch Rechtsverordnung nähere Regelungen zum Verfahren der Evaluation zu treffen.
+
+(2) Das Umweltministerium und das Ministerium für Landesentwicklung und Wohnen berichten dem Landtag jeweils zum 31. Mai der Jahre 2024, 2026 und 2029 über den Umsetzungsstand der Flächenvorgaben nach den §§ 20 und 21, insbesondere zu den erfolgten Gebietsfestlegungen für Windenergie und Photovoltaik auf Freiflächen und zu der Angabe, zu welchem Anteil diese durch Windenergie- und Photovoltaikfreiflächenanlagen genutzt werden.
+
+§ 33 Datenübermittlung zur Erstellung kommunaler Wärmepläne
+
+(1) Soweit dies zur Erstellung kommunaler Wärmepläne gemäß § 27 erforderlich ist, sind Gemeinden berechtigt, vorhandene Daten bei den in Absatz 2 und 3 genannten natürlichen und juristischen Personen zu erheben; dies gilt auch, soweit es sich dabei um personenbezogene Daten handelt. Daten, die Betriebs- und Geschäftsgeheimnisse darstellen, sind bei der Übermittlung als vertraulich zu kennzeichnen.
+
+(2) Energieunternehmen sind verpflichtet, den Gemeinden auf Anforderung insbesondere zähler- oder gebäudescharfe Angaben zu Art, Umfang und Standorten des Energie- oder Brennstoffverbrauchs von Gebäuden oder Gebäudegruppen sowie des Stromverbrauchs zu Heizzwecken, insbesondere für Wärmepumpen und Direktheizungen, und Angaben zu Art, Alter, Nutzungsdauer, Lage und Leitungslänge von Wärme- und Gasnetzen, einschließlich des Temperaturniveaus, der Wärmeleistung und der jährlichen Wärmemenge in maschinenlesbaren oder digitalen Formaten zu übermitteln. Öffentliche Stellen gemäß § 2 Absatz 1 Satz 1 des Landesdatenschutzgesetzes sowie bevollmächtigte Bezirksschornsteinfeger sind verpflichtet, den Gemeinden auf Anforderung insbesondere gebäudescharfe Angaben zu Art, Brennstoff, Nennwärmeleistung und Alter von Anlagen zur Wärmeerzeugung sowie Angaben über deren Betrieb, Standort und Zuweisung zur Abgasanlage und die für die Aufstellung von Emissionskatastern gemäß § 46 des Bundes-Immissionsschutzgesetzes erforderlichen Angaben nach Maßgabe der öffentlich-rechtlichen Vorschriften auf dem Gebiet des Immissionsschutzes in maschinenlesbaren oder digitalen Formaten zu übermitteln. Die Pflicht erstreckt sich nur auf die Daten, die im elektronischen Kehrbuch gemäß § 19 des Schornsteinfeger-Handwerksgesetzes einzutragen und für die Wärmeplanung von Bedeutung sind.
+
+(3) Gewerbe- und Industriebetriebe sowie die öffentliche Hand sind verpflichtet, den Gemeinden Angaben über die Höhe ihres Endenergieverbrauchs, Wärmeenergiebedarfs oder -verbrauchs, die Art der Wärmeenergiebedarfsdeckung einschließlich des Anteils erneuerbarer Energien und von Kraft-Wärme-Kopplung sowie der anfallenden Abwärme auf Anforderung zu übermitteln.
+
+(4) Soweit dies zur Erstellung kommunaler Wärmepläne erforderlich ist, sind Gemeinden berechtigt, innerhalb der Gemeindeverwaltung vorhandene Daten wie insbesondere Gebäudeadresse, Gebäudenutzung, Wohnfläche oder Bruttogeschossfläche, Geschosszahl, Energieträger zur Wärmeerzeugung und Gebäudebaualter zu verarbeiten; dies gilt auch, soweit es sich dabei um personenbezogene Daten handelt und diese für andere Zwecke erhoben wurden. Die Landesregierung wird ermächtigt, durch Rechtsverordnung festzulegen, welche weiteren Angaben zur Erstellung von kommunalen Wärmeplänen innerhalb der Gemeindeverwaltung erhoben und verarbeitet werden dürfen.
+
+(5) Die zur Erstellung kommunaler Wärmepläne von der Gemeinde erhobenen personenbezogenen Daten sowie Daten, die Betriebs- und Geschäftsgeheimnisse darstellen, dürfen nicht für einen anderen als den Erhebungszweck verarbeitet werden. Sobald dies ohne Gefährdung des Erhebungszwecks möglich ist, sind die personenbezogenen Daten und die Daten, die Betriebs- und Geschäftsgeheimnisse darstellen, zu löschen. Unter den Voraussetzungen des Artikels 28 der Datenschutz-Grundverordnung dürfen personenbezogene Daten einer Auftragsverarbeiterin oder einem Auftragsverarbeiter offengelegt werden. Unter den Voraussetzungen des Artikels 26 der Datenschutz-Grundverordnung dürfen personenbezogene Daten zum Zweck der gemeinsamen Wärmeplanung durch andere an der gemeinsamen Wärmeplanung beteiligte Gemeinden verarbeitet werden.
+
+(6) Eine Pflicht zur Information der betroffenen Person gemäß Artikel 13 Absatz 3 der Datenschutz-Grundverordnung durch die zur Datenübermittlung verpflichteten Energieunternehmen und öffentlichen Stellen besteht nicht. Zum Schutz der berechtigten Interessen der betroffenen Personen haben die Gemeinden die Informationen gemäß Artikel 13 Absatz 3 und Artikel 14 Absatz 1 und 2 der Datenschutz-Grundverordnung ortsüblich bekanntzumachen.
+
+(7) Auf der Grundlage der Absätze 1 bis 4 erhobene Daten können für die Wärmeplanung nach dem Wärmeplanungsgesetz verarbeitet werden. Dabei ist § 10 Absatz 1 Satz 3 und Absatz 2 WPG zu beachten.
+
+§ 34 Finanzieller Ausgleich für kommunale Mehrbelastungen
+
+(1) Das Land erstattet den Gemeinden und Gemeindeverbänden für den Aufwand für die erstmalige Erfassung des Energieverbrauchs gemäß § 18 für das Jahr 2020 eine Summe von insgesamt 1 331 806 Euro.
+
+(2) Die für die Erfüllung der Aufgaben gemäß § 29 entstehenden Kosten werden den Landkreisen in Höhe maximal der durchschnittlichen Kosten einer Stelle des höheren Dienstes erstattet.
+
+§ 34a Finanzieller Ausgleich für die Wärmeplanung
+
+(1) Die Stadtkreise und Großen Kreisstädte erhalten ab dem Jahr 2025 bis zum Jahr 2030 jährlich eine pauschale Zuweisung in Höhe von 5 000 Euro zuzüglich 9 Cent je Einwohnerin und Einwohner.
+
+(2) Gemeinden, in denen zum 1. Januar 2024 mindestens 10 000 Einwohnerinnen und Einwohner gemeldet waren und die nicht unter Absatz 1 fallen, erhalten in den ersten vier Jahren ab dem Jahr 2025 jährlich eine pauschale Zuweisung in Höhe von 14 000 Euro zuzüglich 22 Cent je Einwohnerin und Einwohner zur Finanzierung der durch die Erfüllung der Verpflichtung gemäß § 4 Absatz 2 Satz 1 Nummer 2 WPG entstehenden Kosten. Für die Jahre 2029 und 2030 erfolgt eine Zuweisung in Höhe von jährlich 5 000 Euro zuzüglich 9 Cent je Einwohnerin und Einwohner.
+
+(3) Gemeinden, in denen zum 1. Januar 2024 weniger als 10 000 Einwohner gemeldet sind, erhalten in den ersten vier Jahren ab dem Jahr 2025 jährlich eine pauschale Zuweisung in Höhe von 10 000 Euro zuzüglich 22 Cent je Einwohnerin und Einwohner zur Finanzierung der durch die Erfüllung der Verpflichtung gemäß § 4 Absatz 2 Satz 1 Nummer 2 WPG entstehenden Kosten. Für die Jahre 2029 und 2030 erfolgt eine Zuweisung in Höhe von jährlich 3 000 Euro zuzüglich 9 Cent je Einwohnerin und Einwohner.
+
+(4) Wenn Gemeinden, die unter die Größenklassen nach den Absätzen 2 und 3 fallen, Zuwendungen für die Ersterstellung von Wärmeplanungen gewährt wurden oder werden, besteht kein Anspruch auf Ausgleichszahlungen für die Ersterstellung.
+
+(5) Die Festsetzung und Auszahlung der Zuweisung erfolgt durch das zuständige Regierungspräsidium.
+
+§ 34b Finanzieller Ausgleich für kommunale Klimaanpassungskonzepte
+
+(1) Die Stadtkreise und Großen Kreisstädte erhalten zur Erstellung der Klimaanpassungskonzepte nach § 29b Absatz 1 Satz 1 Nummer 1 sowie nach § 29e Absatz 1 einen finanziellen Ausgleich in Form einer pauschalen Mittelzuweisung in Höhe von 4 Euro je Einwohnerin und Einwohner bis zu einem Maximalbetrag von 200 000 Euro. Soll ein bestehendes Konzept nach eigenem Ermessen gemäß § 29e Absatz 2 überarbeitet werden, erhalten die Stadtkreise und Großen Kreisstädte eine pauschale Mittelzuweisung in Höhe von 2 Euro je Einwohnerin und Einwohner bis zu einem Maximalbetrag von 100 000 Euro.
+
+(2) Die Landkreise erhalten für die ihnen zugewiesenen Aufgaben gemäß § 29f ab dem Jahr 2025 bis einschließlich des Jahres 2030 jährlich einen finanziellen Ausgleich in Höhe von pauschal 31 600 Euro pro Jahr zuzüglich 4 470 Euro je kreisangehöriger Gemeinde ohne die Großen Kreisstädte. Die Stadt- und Landkreise erhalten ab dem Jahr 2031 jährlich einen finanziellen Ausgleich in Höhe von pauschal 31 600 Euro zuzüglich 36 Cent je Einwohnerin und Einwohner je Stadt- und Landkreis zur Unterstützung bei der Anpassung an den Klimawandel.
+
+(3) Die Landkreise erhalten im Jahr 2028 eine einmalige Mittelzuweisung für die Erstellung der Klimaanpassungskonzepte gemäß § 29b Absatz 1 Satz 1 Nummer 3 in Höhe von je 50 000 Euro. Dieser Betrag erhöht sich jeweils um den Faktor, der sich aus der Anzahl der kreisangehörigen Gemeinden ohne die Großen Kreisstädte dividiert durch zehn, aufgerundet auf die nächste natürliche Zahl ergibt. Die kreisangehörigen Gemeinden ohne die Großen Kreisstädte erhalten für ihre Mitwirkung an der Erstellung der Klimaanpassungskonzepte im Jahr 2028 einen einmaligen finanziellen Ausgleich in Höhe von 3 000 Euro.
+
+(4) Die Auszahlung der Mittel erfolgt durch das Umweltministerium. Die einmaligen Auszahlungen nach Absatz 1 erfolgen, sobald der Beginn für die Erstellung oder Überarbeitung der Anpassungskonzepte im jeweiligen kommunalen Gremium beschlossen worden ist.
+
+§ 35 Übergangsbestimmungen für die Photovoltaikpflichten
+
+(1) Die Pflicht zur Installation einer Photovoltaikanlage bei grundlegender Dachsanierung gilt nicht, wenn mit den Bauarbeiten vor dem 1. Januar 2023 begonnen worden ist.
+
+(2) Die Pflicht zur Installation einer Photovoltaikanlage gilt nicht, wenn der Antrag auf Baugenehmigung bei der zuständigen unteren Baurechtsbehörde oder im Kenntnisgabeverfahren die vollständigen Bauvorlagen bei der Gemeinde
+
+1. beim Neubau von Nichtwohngebäuden vor dem 1. Januar 2022,
+2. beim Neubau von Wohngebäuden vor dem 1. Mai 2022 und
+3. beim Neubau eines für eine Solarnutzung geeigneten offenen Parkplatzes mit mehr als 35 Stellplätzen für Kraftfahrzeuge vor dem 1. Januar 2022
+
+eingegangen ist.
+
+Anlage 1 – Sektorziele für das Jahr 2030
+(zu § 10 Absatz 2 und § 14 Absatz 2 Satz 1 Nummer 1)
+
+Die Minderungsziele beziehen sich jeweils auf die Treibhausgasemissionen des Jahres 1990. Für den Sektor „Landnutzung, Landnutzungsänderung und Forstwirtschaft“ wird die Senkenleistung in Millionen Tonnen Kohlenstoffdioxid-Äquivalent angegeben.
+
+Sektor: Energiewirtschaft
+Zielsetzung: 75 Prozent
+Federführende Zuständigkeit: Umweltministerium
+
+Sektor: Industrie
+Zielsetzung: 62 Prozent
+Federführende Zuständigkeit: Wirtschaftsministerium
+
+Sektor: Verkehr
+Zielsetzung: 55 Prozent
+Federführende Zuständigkeit: Verkehrsministerium
+
+Sektor: Gebäude
+Zielsetzung: 49 Prozent
+Federführende Zuständigkeit: Ministerium für Landesentwicklung und Wohnen
+
+Sektor: Landwirtschaft
+Zielsetzung: 39 Prozent
+Federführende Zuständigkeit: Ministerium Ländlicher Raum
+
+Sektor: Abfallwirtschaft und Sonstiges
+Zielsetzung: 88 Prozent
+Federführende Zuständigkeit: Umweltministerium
+
+Sektor: Landnutzung, Landnutzungsänderung und Forstwirtschaft
+Zielsetzung: -4,4 Millionen Tonnen CO₂-Äquivalent Senkenleistung
+Federführende Zuständigkeit: Ministerium Ländlicher Raum
+
+Die federführende Verantwortlichkeit richtet sich nach § 10 Absatz 2 Satz 2 und § 14 Absatz 2 Satz 1 Nummer 1.
+
+Anlage 2 – Regionsflächen
+(zu § 20 Absatz 1 und § 21 Satz 1)
+
+Region: Stuttgart
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 3 653,56 km²
+
+Region: Heilbronn-Franken
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 4 764,76 km²
+
+Region: Ostwürttemberg
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 138,53 km²
+
+Region: Mittlerer Oberrhein
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 137,03 km²
+
+Region: Rhein-Neckar
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 441,30 km²
+
+Region: Nordschwarzwald
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 339,28 km²
+
+Region: Südlicher Oberrhein
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 4 071,45 km²
+
+Region: Schwarzwald-Baar-Heuberg
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 529,14 km²
+
+Region: Hochrhein-Bodensee
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 755,76 km²
+
+Region: Neckar-Alb
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 529,17 km²
+
+Region: Donau-Iller
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 2 886,75 km²
+
+Region: Bodensee-Oberschwaben
+Regionsfläche beziehungsweise baden-württembergischer Anteil: 3 501,08 km²
+
+Quelle der Regionsflächen: Entsprechend Statistisches Landesamt Baden-Württemberg, Daten aus dem Statistischen Bericht Baden-Württemberg: Flächenerhebung nach Art der tatsächlichen Nutzung 2020, Stand: 31. Dezember 2020.

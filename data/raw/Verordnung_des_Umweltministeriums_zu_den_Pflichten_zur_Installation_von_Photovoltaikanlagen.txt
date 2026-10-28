@@ -1,0 +1,149 @@
+Photovoltaik-Pflicht-Verordnung Baden-Württemberg (PVPf-VO)
+
+Dokumenttyp: Verordnung
+Titel: Verordnung des Umweltministeriums zu den Pflichten zur Installation von Photovoltaikanlagen auf Dach- und Parkplatzflächen (Photovoltaik-Pflicht-Verordnung - PVPf-VO)
+Ausfertigungsdatum: 11.10.2021
+Gültig ab: 01.01.2022
+Quelle: Land Baden-Württemberg
+Fundstelle: GBl. 2021, 847
+Gliederungs-Nr.: 2128-1, 2133, 7523
+Stand der bereitgestellten Fassung: Zum 27.10.2026 aktuellste verfügbare Fassung der Gesamtausgabe.
+Letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 4 des Gesetzes vom 29. Juli 2025 (GBl. 2025 Nr. 77).
+Quelle im Internet: https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007BED/format/xsl
+
+EINGANGSFORMEL
+
+Auf Grund von § 8e Nummer 1, 2 und 4 des Klimaschutzgesetzes Baden-Württemberg (KSG BW) vom 23. Juli 2013 (GBl. S. 229), das durch Artikel 1 des Gesetzes vom 15. Oktober 2020 (GBl. S. 937) geändert worden ist, wird im Einvernehmen mit dem Ministerium des Inneren, für Digitalisierung und Kommunen, dem Ministerium für Finanzen, dem Ministerium für Wirtschaft, Arbeit und Tourismus, dem Ministerium für Verkehr sowie dem Ministerium für Landesentwicklung und Wohnen verordnet:
+
+§ 1 – Anwendungsbereich
+
+Diese Rechtsverordnung trifft nähere Regelungen zu den Pflichten zur Installation von Photovoltaikanlagen beim Neubau von Wohn- und Nichtwohngebäuden, von offenen Parkplätzen und bei grundlegenden Dachsanierungen von Gebäuden sowie zu möglichen Ersatzmaßnahmen und deren Vollzug nach den §§ 23 und 31 Absatz 1 des Klimagesetzes Baden-Württemberg (KlimaG BW). Beim Neubau von Nichtwohngebäuden sind die Regelungen dieser Rechtsverordnung bei einer Bauantragstellung ab dem 1. Januar 2022 und beim Neubau von Wohngebäuden bei einer Bauantragstellung ab dem 1. Mai 2022 oder ab diesen Zeitpunkten bei Eingang der vollständigen Bauvorlagen im Kenntnisgabeverfahren von Bauherrinnen und Bauherren und den zuständigen unteren Baurechts- und Straßenbaubehörden zu berücksichtigen. Bei grundlegenden Dachsanierungen von Gebäuden sind die Regelungen dieser Rechtsverordnung bei einem Beginn der Bauarbeiten ab dem 1. Januar 2023 von Bauherrinnen und Bauherren und den zuständigen unteren Baurechtsbehörden zu berücksichtigen.
+
+§ 2 – Ergänzende Begriffsbestimmungen
+
+(1) Eine Dachfläche oder Gesamtdachfläche ist die Summe aller Einzeldachflächen eines Gebäudes.
+
+(2) Einzeldachflächen sind zusammenhängende Teilflächen einer Gesamtdachfläche, die durch sie umschließende Dachkanten voneinander abgrenzbar sind.
+
+(3) Grundlegende Dachsanierungen sind Baumaßnahmen, bei denen die Abdichtung oder die Eindeckung eines Daches vollständig erneuert wird. Gleiches gilt auch bei einer Wiederverwendung von Baustoffen. Ausgenommen sind Baumaßnahmen, die ausschließlich zur Behebung kurzfristig eingetretener Schäden vorgenommen werden.
+
+(4) Dem Neubau eines Gebäudes oder Parkplatzes steht der Ausbau oder Anbau gleich, sofern hierdurch eine neue zur Solarnutzung geeignete Dach- oder Stellplatzfläche entsteht. Bestehende Dach- und Stellplatzflächen werden nicht berücksichtigt.
+
+(5) Die Kosten einer Photovoltaikanlage setzen sich aus den Planungskosten sowie den Kosten für Module, die notwendige Unterkonstruktion, Wechselrichter, Messeinrichtungen und Netzanschluss sowie den Montagekosten und den sonstigen Systemkosten zusammen, die bedingt durch die Photovoltaikanlage für bau- oder elektrotechnische Maßnahmen aufgewendet werden müssen. Zu den sonstigen Systemkosten nach Satz 1 zählen insbesondere erforderliche Mehraufwendungen für Brandschutz, Sicherheit und Statik.
+
+(6) Notwendige Nutzungen sind Nutzungen einer Dach- oder Parkplatzfläche, die nach der jeweiligen Zwecksetzung für die Nutzung des Gebäudes oder Parkplatzes, deren Betrieb und allgemeine Instandhaltung erforderlich sind.
+
+(7) Teildachflächen sind Teilflächen einer Einzeldachfläche, die sich durch die Art ihrer Nutzung voneinander unterscheiden.
+
+(8) Die überbaute Grundstücksfläche umfasst die Fläche, mit der ein Gebäude über seine Außenwände den Erdboden berührt, und darüber hinausragende Dachüberstände.
+
+§ 3 – Optimierungsgebot
+
+Dach- und Parkplatzflächen sollen unter Berücksichtigung notwendiger Nutzungen grundsätzlich so geplant und gestaltet werden, dass diese sich für eine Solarnutzung so weit wie möglich eignen.
+
+§ 4 – Mindestanforderungen für zur Solarnutzung geeignete Dachflächen
+
+(1) Eine Dachfläche gilt als zur Solarnutzung geeignet, wenn
+
+1. mindestens eine ihrer Einzeldachflächen eine zusammenhängende Mindestfläche von 20 Quadratmetern hat und eine Neigung von höchstens 20 Grad aufweist oder bei einer Neigung von 20 bis 60 Grad nach Westen, Osten und allen dazwischenliegenden Himmelsrichtungen zur südlichen Hemisphäre ausgerichtet ist (Standardnachweis) oder
+
+2. mindestens eine Teildachfläche dieser Einzeldachflächen eine zusammenhängende Mindestfläche von 20 Quadratmetern aufweist, hinreichend von der Sonne beschienen, hinreichend eben und keiner notwendigen Nutzung vorbehalten ist, die einer Solarnutzung entgegensteht (erweiterter Nachweis).
+
+(2) Eine Teildachfläche ist hinreichend von der Sonne beschienen, wenn diese nicht oder nur geringfügig verschattet ist. Teildachflächen gelten als nur geringfügig verschattet, wenn die Jahressumme der auf sie fallenden solaren Einstrahlungsmenge mindestens 75 Prozent im Vergleich zu der Einstrahlungsmenge einer unverschatteten Fläche mit einer Neigung von 35 Grad in Richtung Süden beträgt.
+
+(3) Hinreichend eben sind plane zweidimensionale Teildachflächen, auch wenn ihre Oberfläche raue dreidimensionale Anteile aufweist, einschließlich untergeordneter technischer und baulicher Konstruktionen und Einrichtungen bis zu einer Höhe von 0,2 Metern, die der einfachen technischen Installation von Photovoltaikmodulen auf marktüblichen Montagegestellen nicht entgegenstehen.
+
+(4) Als für eine Solarnutzung ungeeignet gelten:
+
+1. unterirdische Bauten,
+2. fliegende Bauten,
+3. Gebäude mit einer Nutzfläche von weniger als 50 Quadratmetern,
+4. Gebäude mit Dachflächen, die im Rahmen der notwendigen Nutzung temporär entfernt oder bewegt werden müssen,
+5. Gebäude, die in den Anwendungsbereich gemäß § 1 der Störfall-Verordnung in der Fassung vom 15. März 2017 (BGBl. I S. 484), die zuletzt durch Artikel 107 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328, 1340) geändert worden ist, fallen und bei denen die Verhinderung von Störfällen oder die Begrenzung von Störausfallwirkungen durch Photovoltaikanlagen erschwert wird,
+6. Gebäude mit Dachflächen, auf denen eine Solarnutzung unter Berücksichtigung der typischen Gebäudenutzung und gegebenenfalls von unvermeidbaren externen Einflüssen eine Gefahr für Personen oder Sachen darstellt, und
+7. Bauvorhaben, die über keinen Anschluss an ein Elektrizitätsversorgungsnetz verfügen und deren Netzanschluss nach § 17 Absatz 2 Satz 1 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, ber. S. 3621), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026, 3056) geändert worden ist, in der jeweiligen Fassung verweigert wird,
+8. bauliche Anlagen, die nach der Art ihrer Ausführung für eine dauernde Nutzung nicht geeignet sind und für eine Dauer von höchstens drei Jahren aufgestellt werden.
+
+§ 5 – Mindestanforderungen für zur Solarnutzung geeignete Stellplatzflächen
+
+(1) Stellplatzflächen sind zur Solarnutzung geeignet, wenn diese ausschließlich für Personenkraftwagen vorgesehen sind, eine Neigung der Parkplatzfläche von nicht mehr als 10 Grad zur Waagerechten aufweisen und mindestens vier Stellplätze unmittelbar nebeneinander angeordnet sind.
+
+(2) Als für eine Solarnutzung ungeeignet gelten:
+
+1. Flächen, die nur vorübergehend oder nur zu bestimmten Anlässen als Parkplatz und sonst anderweitig genutzt werden,
+2. Parkplatzflächen, die in den Anwendungsbereich gemäß § 1 der Störfall-Verordnung fallen und bei denen die Verhinderung von Störfällen oder die Begrenzung von Störausfallwirkungen durch Photovoltaikanlagen erschwert wird,
+3. Parkplatzflächen, auf denen eine Solarnutzung unter Berücksichtigung der typischen Parkplatznutzung und gegebenenfalls von unvermeidbaren externen Einflüssen eine Gefahr für Personen oder Sachen darstellt,
+4. nicht überdachte Parkplatzflächen auf Parkhäusern und auf sonstigen Gebäuden mit Parkdecks, die sich im Bereich eines beschlossenen Bebauungsplans befinden, in dem die Zahl der Vollgeschosse als Maß der baulichen Nutzung gemäß § 16 Absatz 2 Nummer 3 der Baunutzungsverordnung festgesetzt ist,
+5. Parkplatzflächen in Tiefgaragen und in geschlossenen Garagen und
+6. Bauvorhaben, die über keinen Anschluss an ein Elektrizitätsversorgungsnetz verfügen und deren Netzanschluss nach § 17 Absatz 2 Satz 1 des Energiewirtschaftsgesetzes verweigert wird.
+
+§ 6 – Umfang der Mindestnutzung
+
+(1) Zur Erfüllung der Pflichten nach § 23 Absatz Satz 1 Nummern 1 und 2 KlimaG BW sowie § 23 Absatz Satz 1 Nummern 1 und 2 KlimaG BW sind Photovoltaikanlagen mit einer Modulfläche in folgendem Mindestumfang zu installieren:
+
+1. im Standardnachweis 60 Prozent der nach § 4 Absatz 1 Nummer 1 zur Solarnutzung geeigneten Einzeldachflächen,
+2. im erweiterten Nachweis 75 Prozent der nach § 4 Absatz 1 Nummer 2 zur Solarnutzung geeigneten Teildachflächen oder
+3. 60 Prozent der zur Solarnutzung geeigneten Stellplatzflächen.
+
+(2) Abweichend von Absatz 1 kann eine Photovoltaikanlage beim Neubau eines Wohngebäudes und bei einer grundlegenden Dachsanierung eines Gebäudes auch mit einer installierten Mindestleistung von 0,06 Kilowatt Peak je Quadratmeter der überbauten Grundstücksfläche zur Erfüllung der Pflichten nach § 23 Absatz 1 Satz 1 Nummer 1 KlimaG BW installiert werden.
+
+(3) Der Umfang der Mindestnutzung nach Absatz 1 ist im Einzelfall so weit zu reduzieren, dass die Voraussetzungen für einen gesetzlichen Zahlungsanspruch nach § 19 Absatz 1 und Absatz 2 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung ohne wettbewerbliche Ermittlung der Marktprämie oder eines vergleichbaren gesetzlichen Anspruchs gegeben sind.
+
+(4) Kann der in einer Photovoltaikanlage produzierte Strom aufgrund der Entflechtungsbestimmungen nach Teil 2 des Energiewirtschaftsgesetzes nicht in ein Elektrizitätsversorgungsnetz eingespeist werden, ist der Umfang der Mindestnutzung nach den Absätzen 1 und 2 unbeschadet des Absatzes 3 so weit zu reduzieren, dass der in der Photovoltaikanlage produzierte Strom vollständig zur Eigenversorgung genutzt werden kann.
+
+(5) Besteht eine öffentlich-rechtliche Pflicht zur Dachbegrünung und ist diese auf einer zur Solarnutzung geeigneten Einzeldachfläche oder Teildachfläche zu erfüllen, so verringert sich der Umfang der Mindestnutzung nach Absatz 1 Nummer 1 und 2 für diese Einzeldachfläche oder Teildachfläche jeweils um die Hälfte.
+
+(6) Wird von der Möglichkeit Gebrauch gemacht, gemäß § 23 Absatz 4 Satz 1 Nummer 1 Buchstabe b KlimaG BW ersatzweise eine solarthermische Anlage zur Wärmeerzeugung zu installieren, ist zur Anrechnung des hierdurch in Anspruch genommenen Flächenanteils nach Absatz 1 auf die Kollektorfläche abzustellen. Wird beim Neubau eines Wohngebäudes oder bei der grundlegenden Dachsanierung eines Gebäudes gemäß Absatz 2 auf die installierte Leistung einer Photovoltaikanlage im Verhältnis zu der überbauten Grundstücksfläche abgestellt, ist davon auszugehen, dass 1 Kilowatt Peak installierte Leistung einer Photovoltaikanlage 5,5 Quadratmetern Kollektorfläche entspricht.
+
+§ 7 – Wirtschaftliche Unzumutbarkeit
+
+(1) Die Pflichterfüllung ist nach § 23 Absatz 3 KlimaG BW mit einem unverhältnismäßig hohen wirtschaftlichen Aufwand verbunden, wenn hierdurch die Durchführbarkeit des betroffenen Bauvorhabens insgesamt oder bei unbilliger Härte in sonstiger Weise gefährdet ist.
+
+(2) Die Durchführbarkeit eines Neubauvorhabens gilt im Sinne des Absatzes 1 als insgesamt gefährdet, wenn die Kosten einer Photovoltaikanlage im Verhältnis zu den Baukosten eines Neubauvorhabens folgende Schwellenwerte übersteigen:
+
+1. 10 Prozent, wenn Photovoltaikanlagen auf einer zur Solarnutzung geeigneten Dachfläche beim Neubau eines Wohngebäudes installiert werden müssen,
+2. 20 Prozent, wenn Photovoltaikanlagen auf einer zur Solarnutzung geeigneten Dachfläche beim Neubau eines Nichtwohngebäudes installiert werden müssen, oder
+3. 30 Prozent, wenn Photovoltaikanlagen auf einer zur Solarnutzung geeigneten Stellplatzfläche installiert werden müssen.
+
+Gilt die Durchführbarkeit eines Neubauvorhabens im Sinne von Satz 1 als insgesamt gefährdet, soll von der Pflicht zur Installation von Photovoltaikanlagen teilweise befreit werden. Die teilweise Befreiung soll soweit erfolgen, dass die Kosten einer Photovoltaikanlage nicht mehr als die in Satz 1 aufgeführten Schwellenwerte betragen.
+
+(3) Bei einer grundlegenden Dachsanierung eines Gebäudes gilt die Durchführbarkeit des Bauvorhabens im Sinne des Absatzes 1 als insgesamt gefährdet, wenn die Summe der mit der Installation einer Photovoltaikanlage verbundenen Netzanschluss- und sonstigen Systemkosten mehr als 70 Prozent der Summe der übrigen Kosten der betreffenden Photovoltaikanlage beträgt.
+
+(4) Bei Neubauvorhaben sind Befreiungsanträge nach § 23 Absatz 3 KlimaG BW bei der zuständigen Behörde zusammen mit der Einreichung der Bauvorlagen zu stellen und mit geeigneten Nachweisen zu belegen, aus denen sich der mit den Kosten einer Photovoltaikanlage verbundene prozentuale Mehraufwand im Verhältnis zu den Kosten des betroffenen Bauvorhabens ergibt. Geeignete Nachweise nach Satz 1 sind insbesondere:
+
+1. aufgeschlüsselte Angaben der gesamten Kosten einer Photovoltaikanlage im Sinne des § 2 Absatz 5 und
+2. aufgeschlüsselte Angaben der gesamten Kosten zur Planung und Errichtung des betroffenen Gebäudes oder Parkplatzes ohne die Grundstückskosten.
+
+(5) Bei grundlegenden Dachsanierungen von Gebäuden sind Befreiungsanträge nach § 23 Absatz 3 KlimaG BW bei der zuständigen unteren Baurechtsbehörde spätestens zwei Monate vor Beginn der Bauarbeiten oder, soweit ein baurechtliches Verfahren durchgeführt wird, zusammen mit der Einreichung der Bauvorlagen zu stellen und mit geeigneten Nachweisen zu belegen, aus denen sich der prozentuale Anteil der mit der Installation einer Photovoltaikanlage verbundenen Netzanschluss- und sonstigen Systemkosten im Verhältnis zu den übrigen Kosten einer Photovoltaikanlage ergibt. Geeignete Nachweise nach Satz 1 sind insbesondere aufgeschlüsselte Angaben der gesamten Kosten einer Photovoltaikanlage im Sinne des § 2 Absatz 5.
+
+(6) Nach Absatz 4 und 5 aufgeschlüsselte Kostenangaben sind durch geeignete Unterlagen zu belegen. Die zuständige Behörde kann außerdem als Nachweis der Voraussetzungen von Absatz 2 Satz 1 und Absatz 3 die Vorlage einer Beurteilung durch qualifizierte Sachverständige auf Kosten des Bauherrn verlangen. Qualifizierte Sachverständige nach Satz 2 sind insbesondere:
+
+1. die nach Bundes- oder Landesrecht zur Ausstellung von Energieausweisen Berechtigten,
+2. Personen, die für ein zulassungspflichtiges Bau-, Ausbau- oder anlagentechnisches Gewerbe die Voraussetzungen zur Eintragung in die Handwerksrolle erfüllen, sowie Handwerksmeisterinnen und Handwerksmeister der zulassungsfreien Handwerke dieser Bereiche und Personen, die aufgrund ihrer Ausbildung oder ihres beruflichen Werdegangs berechtigt sind, ein solches Handwerk ohne Meistertitel selbständig auszuüben.
+
+(7) Die zuständige Behörde hat den Befreiungsantrag und die angefügten Nachweise innerhalb von fünfzehn Arbeitstagen nach deren Eingang auf Vollständigkeit und Geeignetheit im Sinne von Absatz 4 bis Absatz 6 Satz 1 zu überprüfen. Ist der Befreiungsantrag oder sind die Nachweise unvollständig oder ungeeignet, hat die zuständige Behörde der Bauherrin oder dem Bauherrn unverzüglich mitzuteilen, welche Ergänzungen erforderlich sind und dass der Befreiungsantrag ohne Behebung der Mängel innerhalb einer der Bauherrin oder dem Bauherrn zu setzenden, angemessenen Frist abgelehnt werden kann. Sobald der Befreiungsantrag mit geeigneten Nachweisen vollständig vorliegt, hat die zuständige Behörde unverzüglich den Eingang und den nach den Sätzen 4 oder 5 ermittelten Entscheidungszeitpunkt, jeweils mit Datumsangabe, in Textform nach § 126b des Bürgerlichen Gesetzbuches mitzuteilen. Liegt ein Befreiungsantrag mit geeigneten Nachweisen vollständig vor, hat die zuständige Behörde hierüber innerhalb eines Monats zu entscheiden. Soweit ein Baugenehmigungsverfahren durchgeführt wird, gelten abweichend von Satz 4 die nach § 54 Absatz 5 LBO ermittelten Fristen.
+
+§ 8 – Erweiterter Nachweis; Dachplan
+
+(1) Wird bei genehmigungspflichtigen Bauvorhaben und bei Bauvorhaben im Kenntnisgabeverfahren im Rahmen des erweiterten Nachweisverfahrens eine zur Solarnutzung geeignete Dachfläche anhand einer oder mehrerer ihrer Teildachflächen bemessen, so sind die sich hierfür aus § 4 Absatz 1 Nummer 2 ergebenden Voraussetzungen durch einen vom Entwurfsverfasser zu erstellenden Dachplan nachzuweisen. Für die Zuziehung von Sachverständigen gilt § 43 Abs. 2 LBO entsprechend. Der Dachplan ist gemeinsam mit dem Nachweis der Erfüllung der Pflicht nach § 23 Absatz 7 Satz 1 KlimaG BW bei der zuständigen Behörde vorzulegen.
+
+(2) Der Dachplan gliedert sich in einen zeichnerischen und einen textlichen Teil. Der zeichnerische Teil des Dachplans ist aus dem Lageplan nach § 4 der Verfahrensverordnung zur Landesbauordnung zu entwickeln.
+
+(3) Die zuständige Behörde kann für den Dachplan einen anderen Maßstab als 1:500 beim Lageplan verlangen oder zulassen, wenn dies für die Beurteilung des Bauvorhabens erforderlich oder ausreichend ist. Der Entwurfsverfasser hat die Übereinstimmung des zeichnerischen Teils mit dem Lageplan zu bestätigen.
+
+(4) Im textlichen Teil des Dachplans sind zu erläutern:
+
+1. die Größe der unterschiedlichen Einzeldachflächen und Teildachflächen in Quadratmetern,
+2. die Gründe einer fehlenden Solareignung von Teildachflächen, wobei das Optimierungsgebot nach § 3 in der Begründung zu berücksichtigen ist, und der Nachweis, dass eine Teildachfläche nicht im Sinne des § 4 Absatz 2 hinreichend von der Sonne beschienen ist, durch eine geeignete Berechnung.
+
+§ 9 – Textform
+
+Nachweise der Pflichterfüllung nach § 23 Absatz 7 Satz 1 KlimaG BW, Befreiungsanträge nach § 23 Satz 3 KlimaG BW und qualifizierte Sachverständigennachweise nach § 7 Absatz 6 Satz 2 bedürfen der Textform nach § 126b des Bürgerlichen Gesetzbuches und können somit digital auch ohne qualifizierte elektronische Signatur bei der zuständigen Behörde eingereicht werden. Das Umweltministerium kann auf seiner Internetseite Muster für Befreiungsanträge und sonstige Nachweise und Erklärungen zur Verfügung stellen.
+
+§ 10 – Prüfmaßstab
+
+Bauherrinnen und Bauherren haben sicherzustellen, dass die sich aus den § 23 KlimaG BW sowie dieser Rechtsverordnung ergebenden Pflichten eingehalten werden. Die zuständige Behörde unterzieht Nachweise der Pflichterfüllung nach § 23 Absatz 7 Satz 1 KlimaG BW, Befreiungsanträge nach § 23 Satz 3 KlimaG BW, qualifizierte Sachverständigennachweise nach § 7 Absatz 6 Satz 2, Dachpläne nach § 8 und sonstige Nachweise der Bauherrin oder des Bauherrn bei genehmigungspflichtigen Bauvorhaben einer Plausibilitätskontrolle. Bestehen Anhaltspunkte für eine Nichterfüllung von Pflichten, kann die zuständige Behörde das Bauvorhaben einer Inaugenscheinnahme unterziehen. Wird eine Nichterfüllung von Pflichten festgestellt, weist die zuständige Behörde die Bauherrin oder den Bauherrn auf diese Pflichten hin und setzt eine angemessene Frist zu deren Nacherfüllung.
+
+§ 11 – Inkrafttreten
+
+Diese Rechtsverordnung tritt am 1. Januar 2022 in Kraft.
